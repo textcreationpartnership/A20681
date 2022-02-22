@@ -1,0 +1,1591 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Apollo Christian: or Helicon reformed</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1617</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 81 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20681</idno>
+            <idno type="STC">STC 708</idno>
+            <idno type="STC">ESTC S104423</idno>
+            <idno type="EEBO-CITATION">99840161</idno>
+            <idno type="PROQUEST">99840161</idno>
+            <idno type="VID">4635</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20681)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 4635)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 819:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Apollo Christian: or Helicon reformed</title>
+               </titleStmt>
+               <extent>[6], 42 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed [at Eliot's Court Press] for Thomas Norton, and are to bee sold at his shop in Pauls Church-yard at the signe of the Kings-head,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1617.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Mostly in verse.</note>
+                  <note>Identification of printer from STC.</note>
+                  <note>Running title reads: Helicon reformed.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:4635:1"/>
+            <pb facs="tcp:4635:1"/>
+            <p>Apollo Chriſtian: <hi>OR</hi> HELICON REFORMED.</p>
+            <q>
+               <bibl>
+                  <hi>ECCLES. 38.25.</hi>
+               </bibl>
+               <p>Scribe <hi>SAPIENTIAM</hi> in tempore vacuitatis.</p>
+               <bibl>
+                  <hi>HOR. de Art. Poe.</hi>
+               </bibl>
+               <p>Scribendi rectè <hi>SAPERE</hi> eſt &amp; prin<g ref="char:EOLhyphen"/>cipium, &amp; fons.</p>
+            </q>
+            <p>LONDON, Printed for <hi>Thomas Norton,</hi> and are to bee ſold at <hi>his ſhop in Pauls Church-yard at the ſigne</hi> of the Kings-head. 1617.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:4635:2"/>
+            <pb facs="tcp:4635:2"/>
+            <p>TO THE HONOR, PROFIT, &amp; DE<g ref="char:EOLhyphen"/>LIGHT OF THE MOST HONOVRABLIE DESCENDED, AVLGERNON, LORD PERCIE, SONNE, AND HEIRE APPARENT TO Henry, HEROICK EARLE OF <hi>Northumberland:</hi>
+            </p>
+            <pb facs="tcp:4635:3"/>
+            <p>LORD OF THE HONORS OF COCKER MOVTH, AND PETWORTH:</p>
+            <p>LORD PERCIE, LVCIE, POININGS, FITZ-PANE, BRIAN, AND LATIMER:</p>
+            <p>KNIGHT OF THE MOST NOBLE ORDER OF THE <hi>GARTER.</hi>
+            </p>
+            <pb facs="tcp:4635:3"/>
+            <p>AND (VNDER HIS LORD<g ref="char:EOLhyphen"/>SHIPS TITLE) FOR THE PROFIT, AND DELIGHT OF ALL THE ILLV<g ref="char:EOLhyphen"/>STRIOVS YOVTH OF GREAT BRITAINE: <hi>OR</hi> ELSEWHERE WITHIN THE SPHEARE OF THE Engliſh Tongue: THE AVTHOVR, HIS APOLLO CHRISTIAN, OR <hi>HELJCON</hi> REFORMED, IN TESTIMONIE OF LOVE, AND SERVICE TO MAG<g ref="char:EOLhyphen"/>NIFICENT VERTVE, HVMBLY, RITELY, CONSECRATETH.</p>
+         </div>
+         <div type="epigraph">
+            <pb facs="tcp:4635:4"/>
+            <q>
+               <bibl>
+                  <hi>PSAL. 91.</hi>
+               </bibl>
+               <p>In Decachordo Pſalterio, cum cantico in Cithara.</p>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:4635:4"/>
+            <head>HELICON REFORMED.</head>
+            <div n="1" type="melos">
+               <head>MELOS. I. <hi>To the Maieſtie of the Chriſtian Name.</hi>
+               </head>
+               <lg>
+                  <l>LOrd CHRIST, ô giue me leaue &amp; grace to ſing</l>
+                  <l>That ſweet name IESVS, and the heauenly thing</l>
+                  <l>Purport thereof, and how thou, ouercome</l>
+                  <l>By thine own goodneſſe, into virgins womb</l>
+                  <l>Diſdeignd'ſt not to deſcend, and man to bee</l>
+                  <l>In ſecond perſon of the TRINITEE,</l>
+                  <l>Through vnion of ſubſtances, which great Clarkes</l>
+                  <l>Call Vnion Hypoſtaticke, where the markes</l>
+                  <l>Of thy fiue purple wounds impreſt abide,</l>
+                  <l>In peirced hands, and feet, and trenched ſide.</l>
+                  <l>Mûſes of <hi>Sion,</hi> and Mount <hi>Oliuet,</hi>
+                  </l>
+                  <l>Whoſe ditties to mens voyces are not ſet;</l>
+                  <l>Or notes of <hi>Helicon,</hi> that dainty ſpring,</l>
+                  <l>But Angels: neither tune yee to the ſtring,</l>
+                  <l>Or ſtops of breath, your moſt harmonious ſtraines,</l>
+                  <l>But to the ſpheares'ſelues where my Lord remaines.</l>
+                  <l>Yee bleſſed Faëries, Syrens, Siſters nine</l>
+                  <l>(So many heauens are to the chryſtalline)</l>
+                  <pb n="2" facs="tcp:4635:5"/>
+                  <l>Borrow a while the fiue wiſe virgins lamps,</l>
+                  <l>Goe downe to <hi>Dauids</hi> tombe, and through the damps</l>
+                  <l>Of time, and death, bring hither from his ſhrine,</l>
+                  <l>That inſtrument of Pſalmody diuine,</l>
+                  <l>His ten-ſtrung harp, his great triangled Lyre,</l>
+                  <l>Whoſe ſacred ſounds when furious <hi>Saul</hi> did heare,</l>
+                  <l>Th'll ſpirit fled ſo they, who vnderſtand,</l>
+                  <l>May quickned be with our God-guided hand.</l>
+               </lg>
+            </div>
+            <div n="2" type="melos">
+               <head>MELOS. II. <hi>To the moſt rare vertue of true humility.</hi>
+               </head>
+               <lg>
+                  <l>KIng <hi>Godfrey</hi> would not weare</l>
+                  <l>A diadem of golde,
+<note place="margin">Vpon the Crowne of thornes.</note>
+                  </l>
+                  <l>Where CHRIST his Lord did beare</l>
+                  <l>A crowne of thornes, whoſe euery cruell folde</l>
+                  <l>That royall head did teare;</l>
+                  <l>Dipping their ſharp points deepe,</l>
+                  <l>While Angels ſtood to weepe,</l>
+                  <l>In that moſt precious bloud,</l>
+                  <l>Whoſe venerable floud,</l>
+                  <l>Made wither'd ſtockes greene buds, and leaues to beare.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Godfreys</hi> deuotion ſuch,</l>
+                  <l>Findes now a ſtarry crowne,</l>
+                  <l>In city, more, by much,</l>
+                  <l>Noble and faire, then that recouer'd towne.</l>
+                  <l>Whom <hi>Chriſts</hi> thornes doe not tuch,</l>
+                  <l>Whom his blood mooueth not,</l>
+                  <l>Who hath <hi>Chriſts</hi> loue forgot,</l>
+                  <l>Were he the greateſt thing,</l>
+                  <l>That euer was call'd King,</l>
+                  <l>At being ſpurn'd to hell ought not to grutch.</l>
+               </lg>
+            </div>
+            <div n="3" type="melos">
+               <pb n="3" facs="tcp:4635:5"/>
+               <head>MELOS. III. <hi>To the iuſt confuſion of vicious ſelfe-loue.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>DAuid</hi> doth free againſt himſelfe confeſſe,</l>
+                  <l>And freely <hi>Paul,</hi> nor are they Saints the leſſe.</l>
+                  <l>God knowes, and foreknowes all, nor will vpbraid</l>
+                  <l>Or benefits, or blame, if we afraid</l>
+                  <l>To leeſe his loue, repent, and ſinne no more.</l>
+                  <l>Confeſſion doth diſplay the ſecret ſore,</l>
+                  <l>Counſell is med'cine, mercy doth apply.</l>
+                  <l>Who euer elſe is good, a ſinner I.</l>
+                  <l>And if for this ingenuous dealing plaine</l>
+                  <l>Any deſpiſe, or doe repute me vaine,</l>
+                  <l>I am a ſinner I, and ſay it ſtill.</l>
+                  <l>And they who thinke themſelues deuoyd of ill.</l>
+                  <l>Or like an Abraſe table pure and free,</l>
+                  <l>To them I doe not ſcorne, a ſcorne to bee,</l>
+                  <l>Themſelues a ſcorne to God. For who wants ſinne?</l>
+                  <l>Yet glory out of ſhame to ſeeke to winne</l>
+                  <l>Hath deſperate ambition Then for this,</l>
+                  <l>Another time, and place more proper is.</l>
+                  <l>But beſt beginnes confeſſion workes of fame,</l>
+                  <l>For God is reconciled by the ſame:</l>
+                  <l>That ſacrifice is <hi>Abels</hi> holocauſt.</l>
+                  <l>Grace making gracious, ô how hard thou draw'ſt</l>
+                  <l>Prowd fleſh, and bloud to ſuch an humble ſtate,</l>
+                  <l>As lifes acts paſt to recapitulate!</l>
+                  <l>In my bookes front, lo, to Gods honour ſtands</l>
+                  <l>That I moſt ſinner am, if ſo his hands</l>
+                  <l>I may in <hi>Chriſt</hi> eſchew, and vengeance ſcape.</l>
+                  <l>Giue to this holy worke a perfect ſhape,</l>
+                  <l>Moſt heauenly Father, for thy Sonne I ſing,</l>
+                  <l>Who both is Preiſt, Altar, and Offering.</l>
+                  <l>His wounds had they not bled, my teares had trill'd,</l>
+                  <l>And ſighes had blowne in vain thoſe ciſterns fill'd</l>
+                  <pb n="4" facs="tcp:4635:6"/>
+                  <l>With crimſen iuyce ſcruz'd from the gory grapes</l>
+                  <l>Of his celeſtiall vine, renew olde ſhapes,</l>
+                  <l>And waſh blacke ſinnes as white as infant borne.</l>
+                  <l>I who, and all the world had beene forlorne,</l>
+                  <l>But for this heauenly benefit, muſt ſhowe,</l>
+                  <l>That from whom's all, to him we all doe owe.</l>
+               </lg>
+            </div>
+            <div n="4" type="melos">
+               <head>MELOS. IV. <hi>To the ſatisfaction of commendable praiſe-loue.</hi>
+               </head>
+               <lg>
+                  <l>O Why ſhould mortals titles couet,</l>
+                  <l>God's bafful'd ſo by <hi>Pontius Pilas,</hi>
+                     <note place="margin">Vpon the title in the table of the Croſſe.</note>
+                  </l>
+                  <l>In fixing vp the croſſes table?</l>
+                  <l>A vaine affection, yet we loue it,</l>
+                  <l>And neither is it to reuile at.</l>
+                  <l>For who would not ſeeme honourable?</l>
+               </lg>
+               <lg>
+                  <l>All Antiquâries ceaſe your ſearches,</l>
+                  <l>For the inſcribed tables matter,</l>
+                  <l>As whither <hi>Oliue, Palme,</hi> or <hi>Cedar.</hi>
+                  </l>
+                  <l>Vpon the tropheas top it pearches,</l>
+                  <l>And he who would in honours glitter,</l>
+                  <l>Sure, muſt not onely be a reader.</l>
+               </lg>
+               <lg>
+                  <l>I doe confeſſe me moſt ambitious</l>
+                  <l>Of th'Engliſh Lyricks noble title,</l>
+                  <l>Mine is the comfort, God's the glorie.</l>
+                  <l>O bee then, ô bee propitious,</l>
+                  <l>For albeit my powre is little,</l>
+                  <l>Yet is my loue not perfunctorie.</l>
+               </lg>
+               <lg>
+                  <l>Thy ſtile in Hebrew, Greeke and Roman,</l>
+                  <l>
+                     <hi>IESVS Nazaren,</hi> King of Iewes all,</l>
+                  <l>As if that <hi>Pilat</hi> had turn'd Prophet.</l>
+                  <l>Who wanteth title ſeemeth no man:</l>
+                  <l>
+                     <hi>Chriſts</hi> paſſion giue it to my Muſe all.</l>
+                  <l>
+                     <hi>
+                        <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> prooues oft beſt when proud ones ſcoffe it.</l>
+               </lg>
+               <pb n="5" facs="tcp:4635:6"/>
+               <lg>
+                  <l>Thus will I neuer enuy Caeſar,</l>
+                  <l>And fauorites of Kings thinke vnder,</l>
+                  <l>Without applying to times humors,</l>
+                  <l>Talents of minde, deſtroy'd by pleaſure.</l>
+                  <l>The ſicke world's cure a worke of wonder,</l>
+                  <l>I court not fame, nor phanſies rumors.</l>
+               </lg>
+               <lg>
+                  <l>Great Lady Fame, the vaine mans Goddeſſe.</l>
+                  <l>Faire Truth and Iudgement thee doe marſhall</l>
+                  <l>After Queene Vertue. Shee is Soueraigne.</l>
+                  <l>So ſhadowes hand maids are to bodies.</l>
+                  <l>If metit be let men be partiall.</l>
+                  <l>But no doome's ill ſo Chriſtian loue raigne.</l>
+               </lg>
+               <lg>
+                  <l>The Engliſh Language rich in phraſes,</l>
+                  <l>(O Lamb of God, ô Kingly Lyon)</l>
+                  <l>Riuall to Hebrew, Greeke and Latin,</l>
+                  <l>By mee the trumpet of thy prayſes,</l>
+                  <l>Shall into Albion tranſport Sion,</l>
+                  <l>And <hi>Chriſts</hi> broad ſeale confirme my Paten.</l>
+               </lg>
+            </div>
+            <div n="5" type="melos">
+               <head>MELOS. V. <hi>A Romant of Chriſts Acts. To the cleering of CHRISTIANITIES bonor, from all compariſons, and indignities.</hi> ADVERSVS PSEVDO PHILOSOPHOS, PSEVDOPO<g ref="char:EOLhyphen"/>LITICOS, ETOMNES OMNINO, NON SATIS CHRI<g ref="char:EOLhyphen"/>STIANOS.</head>
+               <lg>
+                  <head>§. 1.</head>
+                  <l>LOrd <hi>Chriſt,</hi> by thee this whole huge frame was made,</l>
+                  <l>By thee the deep foundations firſt were laid,</l>
+                  <l>From whence the palace of the heauens did riſe,</l>
+                  <l>And all which ſeemes ſo glorious in our eyes.</l>
+                  <pb n="6" facs="tcp:4635:7"/>
+                  <l>From thine eyes fire the ſtarres and planets tooke</l>
+                  <l>The light they vſe, each fountaine, ſea, and brooke,</l>
+                  <l>Ranne liquid from thy mouth, the earth was clad</l>
+                  <l>In herbs, and flowres, and fruits their colours had</l>
+                  <l>By the bright ſeales of their <hi>Prototypons,</hi>
+                  </l>
+                  <l>And firſt <hi>Idaeas,</hi> whoſe reflections</l>
+                  <l>Came from thy minde, and th'obiects printed faire,</l>
+                  <l>Engrain'd with dies which ſucceſſory are.</l>
+                  <l>Time was not till thou hung'ſt the Sunne on high,</l>
+                  <l>Bidding him runne, dayes arbiter, and eye.</l>
+                  <l>Fiſhes, birds, beaſts, and man, that noble thing,</l>
+                  <l>Had ſhape and life by thee, their God and King.</l>
+                  <l>Angels, the ſparkes of thine owne flame diuine</l>
+                  <l>By thee enabled were to bee, and ſhine:</l>
+                  <l>And (which much better had lyen hidden ſtill)</l>
+                  <l>Mettals and gemms vnder each ſhore and hill,</l>
+                  <l>Thou cloſe didſt couch, for vſe to the worlds end,</l>
+                  <l>When man would more on meanes then God depend:</l>
+                  <l>Or to adorne thy houſe, the houſe of pray'r,</l>
+                  <l>Where nothing ſhould bee ſeene but bright and faire.</l>
+                  <l>For either in thy Churches golde doth beſt,</l>
+                  <l>Or golde, of all things, is the moſt vnbleſt.</l>
+               </lg>
+               <lg>
+                  <head>§. 2.</head>
+                  <l>THis all's creation, Gods <hi>Hexameron,</hi>
+                  </l>
+                  <l>That ſix dayes worke he could haue done in one,</l>
+                  <l>Or, as hee ſhall conſume it in a trice,</l>
+                  <l>So could haue raiſed the whole edifice,</l>
+                  <l>This Architecture of th'huge Vniuerſe</l>
+                  <l>(Whoſe nobler parts who is it can reherſe</l>
+                  <l>With equall praiſe to their creations ſtate?)</l>
+                  <l>This maſſe which one ſoule doth inanimate,</l>
+                  <l>This goodly greatneſſe, this faire Arke of things,</l>
+                  <l>Borne vp in God, which my Muſe ſummes, not ſings,</l>
+                  <l>The worke of our redemption doth exceed,</l>
+                  <l>Both in the worth, and honour of the deed,</l>
+                  <l>As infinitely as Gods mercy ſtands,</l>
+                  <l>'Boue all the workes of his celeſtiall hands</l>
+                  <pb n="7" facs="tcp:4635:7"/>
+                  <l>Obnoxious man, whoſe benefit it is,</l>
+                  <l>Ceaſe ô to bee ingratefull, tend to this;</l>
+                  <l>For thou art bound; if benefits may binde,</l>
+                  <l>And benefits of ſo tranſcendent kinde.</l>
+                  <l>For better had the glories we beholde,</l>
+                  <l>Remain'd in <hi>Chaos,</hi> vp together rolde,</l>
+                  <l>Heauens azure glaſſe vnblowne-out into ſpheares,</l>
+                  <l>And euery ſuit which mother Nature weares,</l>
+                  <l>Beene abſolutely voyd, no acrie ſcreene,</l>
+                  <l>The conuex globe, and hollow skíes betweene,</l>
+                  <l>Better had that fine bubble, Lordly Man,</l>
+                  <l>Whoſe ſinne ſo gored Chriſt, our <hi>Pellican,</hi>
+                  </l>
+                  <l>Better, ô better had high God forborne</l>
+                  <l>To make him out of molde, and to adome</l>
+                  <l>Our <hi>Microcoſm</hi> in <hi>Adam</hi> Protoplaſt,</l>
+                  <l>With gifts diuine through his fowle lapſe defac't,</l>
+                  <l>Better that nothing ſtill had ſtood for all,</l>
+                  <l>Vnleſſe a world were made which ſhould not fall,</l>
+                  <l>Had not redemption in her lap receiued,</l>
+                  <l>What Furies had of mans firſt ſtate bereaued.</l>
+                  <l>To build a palace, worthy of a Prince,</l>
+                  <l>For Apes, and Owles is no magnificence;</l>
+                  <l>But prodigality, and bad exceſſe,</l>
+                  <l>And notes the ſounder for vnworthineſſe.</l>
+                  <l>Or, if magnificence, then ſuch the coſt,</l>
+                  <l>Which th'old Aegyptians on their Temples loſt,</l>
+                  <l>Vnder their <hi>Pharaohs,</hi> and their <hi>Ptolomees,</hi>
+                  </l>
+                  <l>From <hi>Nile</hi>-brancht <hi>Delta,</hi> to blacke <hi>Meroes,</hi>
+                  </l>
+                  <l>And Birds, Beaſts, Crocodiles, the god-heads were,</l>
+                  <l>Which thoſe Idolaters adored there.</l>
+                  <l>'Tis not the pomp, nor Maieſtie of things,</l>
+                  <l>But th'vſe they ſerue vnto which honor brings.</l>
+                  <l>What glory had it beene to the Creator,</l>
+                  <l>Of all things out of nothing to be Author,</l>
+                  <l>If onely Sprights, and Goblins there ſhould dwell,</l>
+                  <l>And man for whom he made them damn'd in hell?</l>
+                  <l>But this was worthy of Gods nature ſweet</l>
+                  <l>(With which in mans men doc moſt rarely meet)</l>
+                  <pb n="8" facs="tcp:4635:8"/>
+                  <l>For his owne ſake rebellion to forgiue,</l>
+                  <l>And, for his Courts ſake, letting man to liue:</l>
+                  <l>Nor onely ſo, but to remooue the barre,</l>
+                  <l>His iuſtice put, and by the which we are</l>
+                  <l>For euer diſinherited of heauen,</l>
+                  <l>It pleaſed him his owne Sonne ſhould be giuen,</l>
+                  <l>A voluntary ſacrifice for all.</l>
+                  <l>Thus <hi>Adam</hi> nothing loſt by <hi>Adams</hi> fall.</l>
+                  <l>Hee loſt <hi>Euphrates,</hi> and ſwift <hi>Tygris</hi> riuer;</l>
+                  <l>But drinkes the water makes him liue for euer:</l>
+                  <l>Hee loſt t'abide on earth in endleſſe bliſſe;</l>
+                  <l>Hath better ioyes in other Paradiſe:</l>
+                  <l>Hee loſt an <hi>Eden;</hi> but an <hi>Heauen</hi> hath found:</l>
+                  <l>Hee hath a firmament; hee loſt but ground:</l>
+                  <l>Before, his body neuer ſhould haue died;</l>
+                  <l>But now his body ſhall bee glorified:</l>
+                  <l>As then his body his ſoules manſion was;</l>
+                  <l>Now ſoule and body vnto glory paſſe:</l>
+                  <l>As then he trembled at the voyce of God;</l>
+                  <l>Now, face to face, in his diuine abode,</l>
+                  <l>Hee God beholds, and ſhall behold for euer:</l>
+                  <l>As then his bliſſe did but in ſenſe perſeuer;</l>
+                  <l>Now in his ſoule: then happy but in part;</l>
+                  <l>Now in the whole: <hi>Adâm,</hi> how bleſt thou art!</l>
+                  <l>As then his obiects dainty land-skeps were,</l>
+                  <l>And cleere <hi>Horizons,</hi> May-months all the yeere;</l>
+                  <l>Now myſteries and types reueal'd doe feed</l>
+                  <l>His happy ſoule, and time he doth not need:</l>
+                  <l>
+                     <hi>Eua</hi> in <hi>Edon</hi> was his naturall ioy;</l>
+                  <l>Now ſupernaturall ſweets them both employ:</l>
+                  <l>And for the beauties of a blanched skin,</l>
+                  <l>
+                     <hi>Chriſts</hi> Spouſe they ſee, whoſe beauties are within:</l>
+                  <l>His walkes were then among freſh trees and flowers;</l>
+                  <l>Now <hi>Alleluia</hi> ſings in heauenly bowers:</l>
+                  <l>The flockes of ſtarres were then aboue his head;</l>
+                  <l>Now vnderneath his feet are trauerſed:</l>
+                  <l>There were as then no birds, nor beaſts of prey,</l>
+                  <l>And Eagles did with Doues together play,</l>
+                  <pb n="9" facs="tcp:4635:8"/>
+                  <l>To make his Lordſhip ſport, who Monarch was;</l>
+                  <l>But, where he is, there nothing is ſo baſe,</l>
+                  <l>As beaſts, or birds, nor needeth fond delight:</l>
+                  <l>Hee raigneth now, where euery meaneſt wight,</l>
+                  <l>Doth farre excell the ſtate of greateſt Kings:</l>
+                  <l>The <hi>Cherubim</hi> now fanne him with their wings,</l>
+                  <l>And th'head with plumes impalpable doe ſhade,</l>
+                  <l>'Gainſt which was brandiſhed a fiery blade:</l>
+                  <l>The ſtreames of <hi>Eden</hi> had ſome gemms of price;</l>
+                  <l>Rich ſtones, and vnions wall new Paradiſe:</l>
+                  <l>There nakedneſſe and ſinne did make him hide;</l>
+                  <l>Heere all things euer cleeere in ſight a bide:</l>
+                  <l>The tree of knowledge quite forbidden there;</l>
+                  <l>Is common, and communicable here:</l>
+                  <l>There he for diet was to fruit confinde;</l>
+                  <l>Now hunger is not: God doth feede his minde:</l>
+                  <l>And that which is the iuſteſt ioy of all,</l>
+                  <l>His whole poſterity, who through his fall,</l>
+                  <l>Had reaſon to lament, as ſuffering loſſe,</l>
+                  <l>Now, through th'exaltiue vertue of the croſſe,</l>
+                  <l>Hee ſees in bliſſe, without originall blot,</l>
+                  <l>And (grace ſurmounting ſinne) that they were not,</l>
+                  <l>Nor euer ſhall bee by his act endomaged,</l>
+                  <l>As freed by <hi>Chriſt,</hi> who hell for them had romaged:</l>
+                  <l>Gods promis'd mercy being moſt compleat,</l>
+                  <l>Each Tribe high placed on triumphant ſeat,</l>
+                  <l>And euery <hi>Saint</hi> diſtinguiſhed with markes,</l>
+                  <l>
+                     <hi>Martyrs, Apoſtles, Virgins, Patriarkes,</hi>
+                  </l>
+                  <l>Fellowes of <hi>Angels,</hi> friends, and ſonnes of light,</l>
+                  <l>And therefore deereſt in their makers ſight,</l>
+                  <l>
+                     <hi>Eua</hi> to <hi>Aue</hi> turn'd, hard ſweat and paine,</l>
+                  <l>To ioy and peace. How great is <hi>Adams</hi> gaine!</l>
+                  <l>For in times fulneſſe, the incarnate <hi>Word,</hi>
+                  </l>
+                  <l>
+                     <hi>Theanthropos, Meſſias, Christ</hi> our <hi>Lord,</hi>
+                  </l>
+                  <l>(That is, Gods off-ſpring, and himſelfe high God)</l>
+                  <l>Who weilds the Scepter, and the iron rod,</l>
+                  <l>Vonchſafed in the Maydens wombe to dwell,</l>
+                  <l>To ranſome vs from ſeruitude and hell.</l>
+                  <pb n="10" facs="tcp:4635:9"/>
+                  <l>Abaſing his great Maieſty, and came</l>
+                  <l>(O happy comming!) to vnite this frame,</l>
+                  <l>This clayie fabricke of mortality,</l>
+                  <l>To God the Father. This was by and by</l>
+                  <l>Effected. O the wonder! ô the ioy!</l>
+                  <l>A riddance cleare from all extreame annoy.</l>
+               </lg>
+               <lg>
+                  <head>§. 3.</head>
+                  <l>HEE came: before him came the Baptiſt <hi>Iohn,</hi>
+                  </l>
+                  <l>Herald, and harbinger of redemption,</l>
+                  <l>Whoſe cryes in deſarts did ſo farre rebound,</l>
+                  <l>As fill'd all peopled places with the ſound.</l>
+                  <l>Neuer mans worth ſuch teſtimony gain'd</l>
+                  <l>As this great Prophet. Yet there had remain'd</l>
+                  <l>Among Gods people moſt exemplar Saints.</l>
+                  <l>Graue <hi>Ieremie</hi> with gorgeous words depaints</l>
+                  <l>The ſacred Order of the <hi>Nazarenes,</hi>
+                  </l>
+                  <l>Whoſe liues, and doctrines, in his holy <hi>Threnes,</hi>
+                  </l>
+                  <l>To milke, ſnow, iuory, and to ſaphyres faire,</l>
+                  <l>Fornutritiue, and pure he doth compare.</l>
+                  <l>Nor with ſmall feruor the ſame pen endites</l>
+                  <l>The praiſes of th'abſtemious <hi>Rechabites.</hi>
+                  </l>
+                  <l>Theſe were of them whom bleſſed <hi>Paul</hi> deſcribes</l>
+                  <l>To bee the choyſeſt glories of their Tribes,</l>
+                  <l>Cloath'd in goat-skins, without perfumes, or dreſſe,</l>
+                  <l>Wandring on mountaines, and in wilderneſſe,</l>
+                  <l>For-borne by wilde beaſts, but by Tyrants ſlaine,</l>
+                  <l>Stoned in townes whom rockes let ſafe remaine,</l>
+                  <l>And poore diſtreſt from caue to caue did paſſe,</l>
+                  <l>Of whom the wretched world vnworthy was.</l>
+                  <l>And though that <hi>Henoch,</hi> and <hi>Elias</hi> were</l>
+                  <l>Moſt eminent, ſo that our Maſter here</l>
+                  <l>Vpon mount <hi>Thabor</hi> did the <hi>Thesbite</hi> ſee,</l>
+                  <l>The <hi>Baptiſt</hi> was as great as hee, or hee.</l>
+                  <l>Therefore of him would <hi>Chriſt</hi> his baptiſme take,</l>
+                  <l>And was baptized for examples ſake.</l>
+                  <l>
+                     <hi>Jordan</hi> ſaw this, and where our <hi>Sauiour</hi> ſtood</l>
+                  <l>Came trembling forward, the abaſhed flood</l>
+                  <pb n="11" facs="tcp:4635:9"/>
+                  <l>Vnworthy, <hi>Chriſts</hi> moſt ſacred limbs to touch,</l>
+                  <l>Nor could the opening heauens admire too much,</l>
+                  <l>This ſecret moſt profound, that Mercies Sea</l>
+                  <l>In narrow riuer ſhould contained bee:</l>
+                  <l>Before this time <hi>Chriſt</hi> well declared had,</l>
+                  <l>By arguing with the Doctors, what was clad</l>
+                  <l>In ſcorned ſemblant. Natures author hee.</l>
+                  <l>How elſe cold fountaine water changed bee</l>
+                  <l>(The firſt of his great wonders) into wine?</l>
+                  <l>Honouring marriage, myſtery diuine:</l>
+                  <l>But who hath words ſufficient to expreſſe,</l>
+                  <l>The teſtimonies of his heauenlineſſe?</l>
+                  <l>Words are too weake, ſeeing that other <hi>Iohn,</hi>
+                  </l>
+                  <l>The Goſpels Eagle, <hi>Chriſts</hi> beloued One,</l>
+                  <l>A flures vs (nor is his aſſurance vaine)</l>
+                  <l>That the wide world could not the Tomes containe</l>
+                  <l>Might written bee of miracles hee did.</l>
+                  <l>Yet let vs touch ſome. For, enthronized</l>
+                  <l>Although hee bee, right at his fathers hand,</l>
+                  <l>This monument will to good purpoſe ſtand.</l>
+               </lg>
+               <lg>
+                  <head>§. 5.</head>
+                  <l>OVt of pure nothing all the world was raiſ'd,</l>
+                  <l>And beeing ſomewhat God the Sonne it paiſ'd.</l>
+                  <l>God all powre gaue to him as hee was man.</l>
+                  <l>Who wonders at it? Hee who all things can,</l>
+                  <l>May all things gouerne well, and ſo doth hee.</l>
+                  <l>
+                     <hi>Euangeliſts</hi> (fowre of you ſuch there bee)</l>
+                  <l>Whom great <hi>Ezechiel,</hi> poet moſt diuine,</l>
+                  <l>In figures fowre expreſt. As, <hi>Matthew,</hi> thine,</l>
+                  <l>And thine ô <hi>Marck,</hi> Saint <hi>Peters</hi> ſcholler ſworne,</l>
+                  <l>And <hi>Luke,</hi> and <hi>Iohn,</hi> on Eagles wings high borne,</l>
+                  <l>
+                     <hi>Matthew</hi> preſented in a wing'd mans image,</l>
+                  <l>
+                     <hi>Marck</hi> in a Lyons, <hi>Luke, CHRISTS</hi> mothers linage</l>
+                  <l>Deſcribing, by the winged Oxe is known.</l>
+                  <l>Their harmony a perfect Vniſon.</l>
+                  <l>That what <hi>Iuſtinian</hi> of the <hi>Septuagint,</hi>
+                  </l>
+                  <l>In <hi>Romes</hi> lawes moſt authentick inſtrument,</l>
+                  <pb n="12" facs="tcp:4635:10"/>
+                  <l>What <hi>Ariſtaas</hi> or the Fathers write</l>
+                  <l>Concerning Scriptures brought in Greeke to light,</l>
+                  <l>At <hi>Ptolomees</hi> command, t'enrich the ſtore</l>
+                  <l>Of <hi>Alexandria's</hi> bookes, the ſame much more</l>
+                  <l>Is certaine in the Goſpels rare concent.</l>
+                  <l>Thoſe firſt Tranſlatours of th'old Teſtament</l>
+                  <l>Diuinely did accord, although apart</l>
+                  <l>They ſat in ſeuerall cels, that ſo to Art</l>
+                  <l>Their harmony could not imputed bee.</l>
+                  <l>By the ſame Spirit did theſe fowre agree,</l>
+                  <l>Their concord worthieſt to bee moſt admir'd,</l>
+                  <l>As moſt vndoubted, and alike inſpir'd,</l>
+                  <l>Not in one place, as were thoſe ſeauentie two,</l>
+                  <l>Nor at one time, and what they had to do</l>
+                  <l>Was not deriuatiue, but originall.</l>
+                  <l>Vpon this Quadrate Euangelicall,</l>
+                  <l>This rockie <hi>Baſis,</hi> truth her towre doth build,</l>
+                  <l>Which, ſpite of weather, ſtill hath ſtronger held.</l>
+                  <l>Himſelfe writ nothing, nothing did commit,</l>
+                  <l>Or did omit, which the moſt captious wit</l>
+                  <l>Could charge for ſinne, or could be better done.</l>
+                  <l>Enough, enough: this ſhewes he was Gods ſonne.</l>
+                  <l>Maieſty made him others pens to vſe,</l>
+                  <l>And Deity his ſpirit to infuſe.</l>
+               </lg>
+               <lg>
+                  <head>§. 5.</head>
+                  <l>MOſt wondrous this, that he ſhould bee ſo poore,</l>
+                  <l>As not to haue or couch, or homely bowr</l>
+                  <l>In which to reſt his venerable head,</l>
+                  <l>
+                     <hi>Propriety</hi> by him vnpractiſed.</l>
+                  <l>Such as are downe in meanes doe feele this ſtate</l>
+                  <l>Moſt difficult of all to eleuate,</l>
+                  <l>And that a weight of wonder lies therein.</l>
+                  <l>O whither yet from hence did he not win?</l>
+                  <l>Nothing to haue, and yet all things to ſway?</l>
+                  <l>Apoſtles twelue, Diſciples do obay</l>
+                  <l>Thrice two times twelue to his magiſtrall will.</l>
+                  <l>Theſe he did cloath, theſe he with food did fill</l>
+                  <pb n="13" facs="tcp:4635:10"/>
+                  <l>Out of his doctrines force. For Lordſhips hee,</l>
+                  <l>And farmes had none, though his the whole earth bee,</l>
+                  <l>With whatſoeuer creatures are therein.</l>
+                  <l>Th' Oeconomie of Hierarchie ſeene.</l>
+                  <l>They begg'd not, they lackt nothing, nor tooke care</l>
+                  <l>For morrowes, a felicity moſt rare.</l>
+                  <l>Hee Primate among his, and worthieſt, was,</l>
+                  <l>Prouiding that no day ſhould ouerpaſſe</l>
+                  <l>To bee repented, as in wants diſ-ſpent.</l>
+                  <l>What of the Author of the firmament</l>
+                  <l>Durſt men hope leſſe? The blinde, the deafe, the lame,</l>
+                  <l>The dumbe, ſicke, dead, who to their ſenſes came</l>
+                  <l>Through his immediate gift were infinite.</l>
+                  <l>Hee grew authenticke in the peoples ſight.</l>
+                  <l>Angels who had beene chang'd from white to blacke,</l>
+                  <l>From faire to fowle, from ſuch as no bliſſe lacke</l>
+                  <l>To ſuch as all bliſſe want, and others make</l>
+                  <l>To lacke alike, hee did ſo throughly ſhake,</l>
+                  <l>That among ſwine they gladly harbour ſought,</l>
+                  <l>Nor could obtaiue, till leaue of him was got.</l>
+                  <l>Thus was the Diuell trampled vnder foot,</l>
+                  <l>As God had promiſ'd, when in natures root</l>
+                  <l>Man blaſted was by his infernall guile.</l>
+               </lg>
+               <lg>
+                  <head>§. 6.</head>
+                  <l>FRom hence let me conuert my mounting ſtile</l>
+                  <l>To the laſt act of his moſt wondrous life.</l>
+                  <l>His ſermons we omit, in Goſpell rife,</l>
+                  <l>Rife, and exact, as the rein penned downe</l>
+                  <l>By God, who ſpake them. And in all the crowne</l>
+                  <l>Of auditors, who did not riſe admiring?</l>
+                  <l>Or who doth read his words, and more deſiring,</l>
+                  <l>And thinking more from roading doth not riſe?</l>
+                  <l>Witneſſe thoſe daily ſwelling Libraries</l>
+                  <l>Growne out of comments on his ſermons made;</l>
+                  <l>Into whoſe depths no mortall wit can wade,</l>
+                  <l>Nor line can ſound th'abyſſes of his lore.</l>
+                  <l>We often know the leſſe by knowing more,</l>
+                  <pb n="14" facs="tcp:4635:11"/>
+                  <l>Abyſſe begets abyſſe, myſterie myſterie,</l>
+                  <l>All ſchooles are blanckt, all eloquence, all hyſtorie.</l>
+                  <l>Nor lies this hardneſſe in th'Euangeliſts,</l>
+                  <l>Who weaue their text with moſt tranſparent twiſts,</l>
+                  <l>And on the precious ground-worke cauſe t'appeare</l>
+                  <l>The images of acts ſo perfect cleare,</l>
+                  <l>And with proportion; ſo exact, and true,</l>
+                  <l>As make no dainty of an open view,</l>
+                  <l>Nor doth the Greeke with dialects vex the ſenſe,</l>
+                  <l>As th'Hebrew with their words equiualence</l>
+                  <l>To ſundry vſes; th holy phraſe is fit,</l>
+                  <l>Aſwell for loftieſt, as for loweſt wit,</l>
+                  <l>And, as much as the largeſt tongue can bee,</l>
+                  <l>To all intents of full capacitee:</l>
+                  <l>Nor ſtints the maruell heere. For, who ſo dull</l>
+                  <l>That ſomewhat not conceiues? and who ſo full,</l>
+                  <l>Whoſe ſtores may not encreaſe ten thouſand fold?</l>
+                  <l>Gods wiſdome in it doth the wonder hold.</l>
+                  <l>Abſtract from miracles, for weake ones granted</l>
+                  <l>(Who wholly build on them are often ſcanted)</l>
+                  <l>His parables, his ſentences, his ſpeeches,</l>
+                  <l>Are altogether ſuch, as no minde reaches</l>
+                  <l>The fulneſſe of their <hi>Anagogicke</hi> ſenſe.</l>
+                  <l>Pole is from pole not ſo farre diſtant hence</l>
+                  <l>As Fathers, Doctors, Counſels are farre ſhort,</l>
+                  <l>Not of the truth, but of th'entire purport.</l>
+                  <l>Yet is it written, and that writ is right,</l>
+                  <l>That in his light wee faithfull ſhould ſee light,</l>
+                  <l>And from one cleereneſſe paſſing to another,</l>
+                  <l>Laſt times ſhould open what the firſt did ſmother.</l>
+                  <l>O, had wee beene ſo happy from on high,</l>
+                  <l>As to haue felt the force, and energie,</l>
+                  <l>And moſt victorious vtterance of Chriſts words,</l>
+                  <l>Did Scripture, as it ſubſtances affords,</l>
+                  <l>The poſtures of his action ſhew to vs,</l>
+                  <l>And geſtures grace, which th'artificious</l>
+                  <l>Are ſo much in, ô had we beene ſo bleſt,</l>
+                  <l>Rapture could onely ſerue to ſpeake the reſt.</l>
+                  <pb n="15" facs="tcp:4635:11"/>
+                  <l>Enough to conſtitute a proofe paſt nay,</l>
+                  <l>That hee was God who ſo could doe, and ſay.</l>
+                  <l>Therefore adore wee thee, ô <hi>Sauiour</hi> ſweet,</l>
+                  <l>In whom the lines of all perfections meet.</l>
+               </lg>
+               <lg>
+                  <head>§. 7.</head>
+                  <l>DIuine Eſchêquer, Treaſûrie diuine,</l>
+                  <l>Where God our God doth all the wealth enſhrine</l>
+                  <l>Of <hi>SAPIENCE,</hi> and of <hi>SCIENCE,</hi> gifts of his,</l>
+                  <l>Out of that treaſures moſt immenſe abyſſe,</l>
+                  <l>Whereof ſmall peeces, ſcattered heere and there</l>
+                  <l>In humane nature, did the heathens reare</l>
+                  <l>To all the ſplendor which their writings boaſt,</l>
+                  <l>(Properly ours, theirs but vſurpt at moſt)</l>
+                  <l>O caſt deare God into my minde, and ſenſe,</l>
+                  <l>Some heauenly ſterling, ſome ſpirituall pence;</l>
+                  <l>Shower downe in donatiue thy miſſill bounties,</l>
+                  <l>In honour of thy Sonne, while I diſmount eaſe,</l>
+                  <l>To mount his name, out of all hands to ſtrike</l>
+                  <l>Well worded madneſſe, which the times beſt like.</l>
+                  <l>Cares from my head; driue wearineſſe from my hands,</l>
+                  <l>Turne ſcruples into ſpurrs, the Syrts, and ſands</l>
+                  <l>Of perturbations, to firme grounds of ſenſe,</l>
+                  <l>Which <hi>Romants</hi> more doe loue then eloquence.</l>
+               </lg>
+               <lg>
+                  <head>§. 8.</head>
+                  <l>
+                     <hi>MOſes</hi> Gods acts did ſing, and <hi>Dauid</hi> too.</l>
+                  <l>
+                     <hi>Dauid,</hi> and <hi>Moſes</hi> would haue much to do,</l>
+                  <l>Were they his fulleſt praiſe to vndertake,</l>
+                  <l>For, what a fame doth ſacred <hi>Moſes</hi> make,</l>
+                  <l>By hauing brought the Iſraelites paſt feare,</l>
+                  <l>When th'<hi>Erythraean</hi> ſeas diſparted were,</l>
+                  <l>Like wals on either ſide to let them paſſe,</l>
+                  <l>Cloſing againe as <hi>Pharaoh</hi> held on chaſe,</l>
+                  <l>Hoping to charge, with chariots arm'd for fight,</l>
+                  <l>The trembling ſonnes of <hi>Abraham</hi> in their flight?</l>
+                  <l>What pomp of ſtile? what ornaments of phraſe</l>
+                  <l>Vſe not Gods Prophets when this act they praiſe?</l>
+                  <pb n="16" facs="tcp:4635:12"/>
+                  <l>Againe, whoſe pen extols not <hi>Sinais</hi> thunder?</l>
+                  <l>The Deſerts <hi>Manna?</hi> and, what elſe was wonder,</l>
+                  <l>In that great Captaines march to hoped reſt?</l>
+                  <l>Which God had promiſed in countrey bleſt.</l>
+                  <l>Laſtly, what wants t'expreſſe the glorious ſtate</l>
+                  <l>Of <hi>Salomons</hi> temple? Scriptures doe abate</l>
+                  <l>All pomp, all greatneſſe, when compar'd to it.</l>
+                  <l>The ancient maruailes euen to one doe fit</l>
+                  <l>Our maſters perſon, office, and renowne.</l>
+                  <l>No miracle worth naming but his owne.</l>
+                  <l>For, how farre ſubſtance ſhadowes doth excell,</l>
+                  <l>Things done their figures ſet in paralell,</l>
+                  <l>So farre the ſacred kernell of <hi>CHRISTS</hi> deeds</l>
+                  <l>The gorgeous huske of thoſe great types exceeds.</l>
+               </lg>
+               <lg>
+                  <head>§. 9.</head>
+                  <l>HEre challenge I all Heathen wits, and Worthies,</l>
+                  <l>All Conquerours, and noble pens which for theſe</l>
+                  <l>Haue coniur'd <hi>Helicon,</hi> call'd <hi>Apollo</hi> downe,</l>
+                  <l>By monuments t'eternize that renowne,</l>
+                  <l>Which they their patrons had by braue deeds gain'd,</l>
+                  <l>Their <hi>Tripods, Sibylls,</hi> and their wonders fain'd,</l>
+                  <l>To peece with falſhood out their Gods defect:</l>
+                  <l>Here challenge I (let whoſe will them protect)</l>
+                  <l>Their <hi>Ioues,</hi> their <hi>Marſes,</hi> and their <hi>Mercuries,</hi>
+                  </l>
+                  <l>Their <hi>Dij Penates,</hi> and <hi>Indigetes,</hi>
+                  </l>
+                  <l>Or (who were more in worth, though leſſe in fame)</l>
+                  <l>Their <hi>Pauls,</hi> their <hi>Scipio's,</hi> and what gallant name</l>
+                  <l>Th' <hi>Arſacid's</hi> line, the race of <hi>Ptolomees,</hi>
+                  </l>
+                  <l>The <hi>Caeſars</hi> vaunted, or, if out of theſe,</l>
+                  <l>Prowd <hi>Paganiſm</hi> had oughts more admirable,</l>
+                  <l>Great <hi>Alexander, Traian</hi> incomparable</l>
+                  <l>(A duanced by wits vanity to the ſtate</l>
+                  <l>Of Demi-gods) the life t'equiparate,</l>
+                  <l>And words, and workes of <hi>Moſes</hi> wondrous man,</l>
+                  <l>Who maruels acted in the Land of <hi>Cham,</hi>
+                  </l>
+                  <l>And terrible things in roſie-colour'd ſeas,</l>
+                  <l>Who was true <hi>Triſmegiſt,</hi> and not <hi>Hermes,</hi>
+                  </l>
+                  <pb n="17" facs="tcp:4635:12"/>
+                  <l>Preiſt, Prophet, Prince, ô very <hi>Triſmegiſt,</hi>
+                  </l>
+                  <l>Truely moſt great. Enter who will the Liſt,</l>
+                  <l>I challenge all the heathen, ſure to win.</l>
+                  <l>And to this combat let come alſo in</l>
+                  <l>Their <hi>Mages, Brathmanns, Areopagites,</hi>
+                  </l>
+                  <l>Their <hi>Solons,</hi> their philoſophies, and rites:</l>
+                  <l>Let <hi>China</hi> her <hi>Confutius</hi> alſo bring,</l>
+                  <l>Her Realmes Law-maker, and doth ſeeme a thing</l>
+                  <l>More worthy admiration then what either</l>
+                  <l>
+                     <hi>Chaldie,</hi> or <hi>Aegypt, Greece,</hi> put all together,</l>
+                  <l>Can ſhew for an effect of heathen wit,</l>
+                  <l>The <hi>Academ,</hi> the moſt learn'd <hi>Stagyrit;</hi>
+                  </l>
+                  <l>Bring <hi>Simon Magus,</hi> and th'impoſtr'ous mate</l>
+                  <l>Borne at <hi>Tyana,</hi> whom fond <hi>Philoſtrate</hi>
+                  </l>
+                  <l>Blaſphemoufly durſt vnto <hi>CHRIST</hi> compare,</l>
+                  <l>
+                     <hi>Iannes,</hi> and <hi>Mambres,</hi> and who famous are</l>
+                  <l>For Lady witches, <hi>Circe,</hi> and that crew;</l>
+                  <l>Pownd all into one doſe, yea let hell ſpew</l>
+                  <l>More blacke Ingredients, to obtaine the prize</l>
+                  <l>By counterfets, and miſts, to blinde the eyes;</l>
+                  <l>Let th'inſtances be fabulous, or true,</l>
+                  <l>Gods ſeruant farre excels, and doth ſubdue</l>
+                  <l>Seemings with ſubſtance, morall with diuine.</l>
+                  <l>Nor is this an hyperbole of mine.</l>
+                  <l>All heathen greatneſſe put into one act</l>
+                  <l>Cannot bee made ſo great, nor ſo exact,</l>
+                  <l>As that by which our <hi>Moſes</hi> Iſrael freed,</l>
+                  <l>His knowledge being equall to his deed:</l>
+                  <l>And all the heathen learnings, Lawes, and Arts</l>
+                  <l>Together put, come farre beneath his parts.</l>
+                  <l>Not that the <hi>Gentiles</hi> natures were not rare,</l>
+                  <l>Their acts not great, their worths not ſingular,</l>
+                  <l>Their ſpeech not exquiſite, their thoughts not high,</l>
+                  <l>Their ſtudies not moſt noble: to denie</l>
+                  <l>Theſe famous truthes were abiect, poore, and baſe,</l>
+                  <l>Yea more (ô <hi>Chriſtiâns</hi>) to our iuſt diſgrace,</l>
+                  <l>We cannot but confeſſe, that they out went,</l>
+                  <l>And farre outwent, moſt of our excellent,</l>
+                  <pb n="18" facs="tcp:4635:13"/>
+                  <l>Through our default, whoſe ſloth betrayes our powers.</l>
+                  <l>And would to God that in theſe dayes of ours,</l>
+                  <l>Their iuſtice, candor, valour, temperance,</l>
+                  <l>And other vertues which did ſo aduance</l>
+                  <l>Their names, and countries vnder natures Law,</l>
+                  <l>Could now more like them into practiſe draw:</l>
+                  <l>They are confeſt to be heroick high,</l>
+                  <l>Glorious, and what not? and the Deitie</l>
+                  <l>Was in their perſons prettily reſembled.</l>
+                  <l>But at the voyce of <hi>Moſes</hi> nations trembled.</l>
+                  <l>The plagues of Aegypt want a parallell</l>
+                  <l>Euen in their fables. For what one heares tell</l>
+                  <l>(Read all the fictions which their <hi>Faſti</hi> hold,</l>
+                  <l>Their poems, and their Annals) one ſo bold,</l>
+                  <l>And bleſt withall, who ſingle, euer durſt</l>
+                  <l>Enter a Tyrants Court, and hee at worſt,</l>
+                  <l>Diſpoſ'd to all iniuſtice, tort, and wrong,</l>
+                  <l>To free ſix hundred thouſand, captiue long</l>
+                  <l>(As long as heere fiue hundred yeeres could make)</l>
+                  <l>And force him in the end conditions take,</l>
+                  <l>Not ſuch as Maieſtie would yeeld vnto,</l>
+                  <l>But ſuch as <hi>Moſes</hi> did compell to doe?</l>
+                  <l>
+                     <hi>Moſes</hi> in all th' Aegyptian learnings taught,</l>
+                  <l>What hee would worke prerogatiuely wrought,</l>
+                  <l>Not with baſe prai'rs, or with rude force of hand,</l>
+                  <l>But with a force which men could not withſtand.</l>
+                  <l>Withſtand they did, but did withſtand in vaine.</l>
+                  <l>
+                     <hi>Ianues,</hi> and <hi>Mambres</hi> who did then ſuſtaine</l>
+                  <l>The perſons of the wiſe-men, and the wit</l>
+                  <l>Of all the heathen (for no <hi>Mages</hi> yet,</l>
+                  <l>Or them before, had more preſtigious skill,</l>
+                  <l>More charmes, more ſpirits, or could more fulfill)</l>
+                  <l>And in their perſons, <hi>Moſes</hi> did confound</l>
+                  <l>All the worlds Arts, all which this globous Mound</l>
+                  <l>Of ſea, and earth hath in it great, or rare,</l>
+                  <l>Set againſt God, by whom, and whoſe they are.</l>
+                  <l>Nor doe I wonder that it ſhould bee ſo,</l>
+                  <l>Nor is it wonderfull. For wee muſt know,</l>
+                  <pb n="19" facs="tcp:4635:13"/>
+                  <l>That the firſt heathen had from vs their lights.</l>
+                  <l>By <hi>Abraham</hi> the <hi>Meſopotamites,</hi>
+                  </l>
+                  <l>And Sages of <hi>Chalda<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> knew the skie,</l>
+                  <l>The rules, and doctrines of Aſtronomie;</l>
+                  <l>And <hi>Iacoh,</hi> and the Patriarkes (<hi>Abrahams</hi> ſeed)</l>
+                  <l>To Aegypt brought the plant, which there a weed</l>
+                  <l>Through ſuperſtition, and through fraud became:</l>
+                  <l>The plant of Science ground of <hi>Ioſephs</hi> fame,</l>
+                  <l>
+                     <hi>Ioſeph</hi> the father of <hi>Onerocrites,</hi>
+                  </l>
+                  <l>
+                     <hi>Iacob</hi> of ſacred lore, and ſacred rites,</l>
+                  <l>And natures ſecrets (which deprau'd in time,</l>
+                  <l>Fill'd <hi>Mizraim</hi> with more monſters then Niles ſlime</l>
+                  <l>Through <hi>Phoebus</hi> beames is ſayd to haue engendred)</l>
+                  <l>All which to Greece by <hi>Plato</hi> Aegypt tendred.</l>
+                  <l>
+                     <hi>Plato</hi> confeſſeth it, where he brings in</l>
+                  <l>The Prieſt of <hi>Saim,</hi> plainely telling him,</l>
+                  <l>That they, the Greekes, were babes, and nothing knew,</l>
+                  <l>No, nor that Preiſt, though what he ſayd was true</l>
+                  <l>Of Greekes antiquities, which as Greece did want,</l>
+                  <l>So that Preiſt bragg'd, making an idle vaunt</l>
+                  <l>Of Acts, of ages, and th' <hi>Atlanticke</hi> Ile,</l>
+                  <l>To glorifie his <hi>Memphis,</hi> and his <hi>Nile.</hi>
+                  </l>
+                  <l>For that no nation this day vnder skie,</l>
+                  <l>Nor euer could ſhew ſuch antiquitie,</l>
+                  <l>As <hi>Moſes</hi> hath deliuered of the Iewes.</l>
+                  <l>And in this faith bee confident my Muſe.</l>
+                  <l>Nor had the heathen onely thus the ſeed,</l>
+                  <l>And roots of knowledge, but euen skill to read.</l>
+                  <l>Letters the inuention of the Hebrewes were,</l>
+                  <l>Not theirs who dwelt at <hi>Sidon,</hi> and at <hi>Tyre,</hi>
+                  </l>
+                  <l>Two cities of <hi>Phaenicia</hi> moſt renown'd,</l>
+                  <l>Whoſe colonies repleniſht <hi>Carthage</hi> ground.</l>
+                  <l>Though <hi>Europe</hi> at the ſecond hand might haue</l>
+                  <l>Letters from thence, which Iewes to them firſt gaue.</l>
+                  <l>For th'Hebrewes letters had before the flood.</l>
+                  <l>How proue wee that? The proofe wee haue is good.</l>
+                  <l>
+                     <hi>Iubal,</hi> when th'earth her firſt fruit yet did beare,</l>
+                  <l>Nor had, or hills, or Iles, which after were,</l>
+                  <pb n="20" facs="tcp:4635:14"/>
+                  <l>So ſome conceiue) as waters ouerſwayd,</l>
+                  <l>And an vneueneſſe in the euen globe made,</l>
+                  <l>
+                     <hi>Iubal</hi> (as moſt authenticke rolls declare)</l>
+                  <l>
+                     <hi>Iubal</hi> contriued how to tune the aër,</l>
+                  <l>Apt notes inuenting, and to them inuents</l>
+                  <l>The ſolemne harp, and other inſtruments.</l>
+                  <l>Which, without letters, how could men deuiſe?</l>
+                  <l>Letters the ſtayes of notes, and harmonies.</l>
+                  <l>So idle thoſe conceipts th'old heathen tell,</l>
+                  <l>How the firſt gittarn was a Tortoyſe-ſhell,</l>
+                  <l>Whoſe ſinewes dride, and toucht did yeild a ſound,</l>
+                  <l>Or <hi>Cyclops</hi> hammers to bee muſicks ground.</l>
+                  <l>Againe, before the flowd, that <hi>Henoch</hi> ſpake</l>
+                  <l>Character'd was. <hi>Tertullian</hi> proofe doth take</l>
+                  <l>Out of that Author, as <hi>Canonicall,</hi>
+                  </l>
+                  <l>And him defendeth. So of right ſhould all.</l>
+                  <l>For <hi>Iude</hi> th'Apoſtle <hi>Henochs</hi> booke doth cite.</l>
+                  <l>And bookes were not till learned Clarkes could write.</l>
+                  <l>Of doomeſday <hi>Henoch</hi> propheſide before,</l>
+                  <l>Heauens cataracts had drowned the earths ſhore.</l>
+                  <l>Conceipt ſo impious no man entertaines,</l>
+                  <l>As if the Bible were of humane braines,</l>
+                  <l>The politicke, or euphantaſticke birth,</l>
+                  <l>There can bee no ſuch prodigie on earth.</l>
+                  <l>Nor is there <hi>Atheiſt,</hi> neither can there bee,</l>
+                  <l>Sweare it who will, death neuer ſhall it ſee.</l>
+                  <l>Therefore no neede to buſie mee to prooue</l>
+                  <l>That in the which 'tis damn'd leaſt doubt to mooue.</l>
+                  <l>For who Gods Church contemne, yet by the ſhine</l>
+                  <l>Of the workes ſelues muſt yeeld the workes diuine:</l>
+                  <l>Yea, they ſeeme falne from charitie too much,</l>
+                  <l>Who can beleeue there can be any ſuch.</l>
+                  <l>For though in heart the foole ſayd as he ſayd,</l>
+                  <l>And as a bruit would faine it ſo haue had,</l>
+                  <l>Yet <hi>Dauid</hi> notes it onely for a thought,</l>
+                  <l>And not a <hi>Theſis.</hi>
+                  </l>
+                  <l>Thus letters are the worlds debt to the <hi>Iewes.</hi>
+                  </l>
+                  <l>Which <hi>Moſes</hi> moſt excell'd in, beſt did vſe.</l>
+                  <pb n="21" facs="tcp:4635:14"/>
+                  <l>His <hi>Pontateuchus,</hi> or fiue <hi>Tomes</hi> diuine,</l>
+                  <l>Antiquities treaſures are, and learnings ſhrine.</l>
+                  <l>
+                     <hi>Tribonian</hi> therefore wrong'd <hi>Inſtinian</hi> much,</l>
+                  <l>
+                     <hi>Heathens</hi> wrong'd <hi>Chriſtians,</hi> calling <hi>Homers</hi> ſuch.</l>
+                  <l>And, ſhould we grant that <hi>Moſes</hi> did not paſſe</l>
+                  <l>(Though farre he did) what euer glorious was,</l>
+                  <l>Learned, and great in all the world beſide,</l>
+                  <l>Yet, whatſoeuer was the cauſe of pride,</l>
+                  <l>Of gloriation, or of largeſt fame</l>
+                  <l>Among the nobleſt Heathens, all the ſame</l>
+                  <l>
+                     <hi>Chriſtians</hi> haue right to, not as Iſraels Tribes</l>
+                  <l>To Aegypts iewels (their departures bribes)</l>
+                  <l>But becauſe God was Natures Lord, and ſhee</l>
+                  <l>Their Goddeſſe, but our ſelues Gods children bee,</l>
+                  <l>They are but baſtards, or, as hirelings, baſe,</l>
+                  <l>To <hi>Moſes</hi> they, <hi>Moſes</hi> to <hi>Chriſt</hi> giues place.</l>
+                  <l>
+                     <hi>Moſes</hi> the Hebrewes through red ſeas did guide;</l>
+                  <l>
+                     <hi>Chriſt</hi> through hell-fires: <hi>Moſes</hi> dampt <hi>Pharaohs</hi> pride;</l>
+                  <l>
+                     <hi>Chriſt Lucifers; Moſes</hi> did <hi>Manna</hi> giue;</l>
+                  <l>
+                     <hi>Chriſt</hi> th' <hi>Euchariſt,</hi> which makes vs euer liue:</l>
+                  <l>
+                     <hi>Moſes</hi> led Iewes but vnto <hi>Paleſtine,</hi>
+                  </l>
+                  <l>Himſelfe not entring; <hi>Chriſt</hi> to land diuine,</l>
+                  <l>Himſelfe firſt entring, did conduct his flocke,</l>
+                  <l>
+                     <hi>Salomons</hi> Temple, whoſe braue worths did mocke</l>
+                  <l>All the worlds wonders, a poore ſemblant was</l>
+                  <l>Of that Ieruſalem, to which they paſſe</l>
+                  <l>Who through the red ſeas of <hi>CHRISTS</hi> bloud do go,</l>
+                  <l>Or through their owne, as <hi>Martyrs</hi> great, or ſo.</l>
+                  <l>IERVSALEM, in her moſt happy dayes</l>
+                  <l>Compared with that Citie, whoſe heauens rayes</l>
+                  <l>Th' <hi>Apocalyps</hi> deſcribeth was but baſe,</l>
+                  <l>A petty village, voyd of powr, or grace:</l>
+                  <l>Siluer was as ſtreet-ſtones in <hi>Salomons</hi> time;</l>
+                  <l>But in <hi>Chriſts</hi> city precious ſtones the clime</l>
+                  <l>Doe paue throughout, and decke the glittering gates.</l>
+                  <l>More odds between their perſons then their ſtates.</l>
+               </lg>
+               <pb n="22" facs="tcp:4635:15"/>
+               <lg>
+                  <head>§. 10.</head>
+                  <l>MOſt wonderfu'l was that which doth remaine,</l>
+                  <l>Who might haue reared to himſelfe a reigne,</l>
+                  <l>A Monarchy, ſuch as th'Aſſyrian neuer,</l>
+                  <l>Nor Medes, nor Perſians, Greekes, nor Rome had euer,</l>
+                  <l>Fled from the people <hi>would not bee a King,</hi>
+                  </l>
+                  <l>Becauſe hee infinitely was a greater thing;</l>
+                  <l>Fled from the people, neither would command</l>
+                  <l>But as a God, maker of ſea, and land,</l>
+                  <l>Becauſe his errand was to beare heauens wrath,</l>
+                  <l>Which God All-mighty to all ſinners hath,</l>
+                  <l>And pay the vtmoſt farthing of mans debt.</l>
+                  <l>Hee who is owne death with one word could let,</l>
+                  <l>And could, as Gods Word, haue refuſ'd to bee</l>
+                  <l>This wtetched thing call'd mortall man, euen hee</l>
+                  <l>Contented was to fall into ſoes powre,</l>
+                  <l>Suffring himſelfe, during the diſmall howre,</l>
+                  <l>To bee, in body, his owne vaſſalls thrall,</l>
+                  <l>To <hi>Herods</hi> palace toſt from <hi>Pilats</hi> hall,</l>
+                  <l>And hurried to and fro, from bad to worſe,</l>
+                  <l>
+                     <hi>Annas</hi> and <hi>Carphas</hi> both within Gods curſe.</l>
+               </lg>
+               <lg>
+                  <head>§. 11.</head>
+                  <l>ANd why? my Gôd, and why, Redeemer deere,</l>
+                  <l>Didſt thou ſubmit thy ſelfe to ſuch things heere?</l>
+                  <l>O, and alas, what was there in vile man,</l>
+                  <l>Which ſhould inuite thee to endure ſuch pain?</l>
+                  <l>Was all the world of creatures ſo much worth,</l>
+                  <l>As that thou therefore ſhould'ſt a man come forth?</l>
+                  <l>Flow yee my teâres, ſighes open breake my breſt,</l>
+                  <l>O ſorrowes! ô let others tell the reſt!</l>
+                  <l>Verily, Gôd, all that this frame hath fair,</l>
+                  <l>All it hath rich, all that the earth, or aer,</l>
+                  <l>Water, or fire, are bubbles in reſpect.</l>
+                  <l>Doe not, ah doe not thine owne ſelfe neglect,</l>
+                  <l>Goe backe to heauen, let vs to hell ſincke rather,</l>
+                  <l>Then thou endure thus much. But God, our Father,</l>
+                  <pb n="23" facs="tcp:4635:15"/>
+                  <l>Would haue it ſo. And could there bee, in God,</l>
+                  <l>So great regard of vs? Let any rod,</l>
+                  <l>Let and plague afflict old <hi>Adams</hi> ſeed,</l>
+                  <l>Rather then <hi>Chriſt.</hi> But God hath it decreed.</l>
+                  <l>What God hath once decreed no powre can barre.</l>
+                  <l>But, is it poſſible that men ſo farre</l>
+                  <l>Should fall from grace, as to reduce them home,</l>
+                  <l>Thou muſt from heauens heigth like a ſtranger come,</l>
+                  <l>And bee held priſiner, buffeted, abuſ'd,</l>
+                  <l>Scorn'd, ſpet vpon, ſcourg'd, and with cudgels bruiz'd?</l>
+                  <l>From <hi>Gabatha</hi> be ſhowne, and <hi>Bar-abbas</hi>
+                  </l>
+                  <l>(Thou to the croſſe called vpon) let paſſe?</l>
+                  <l>O is it poſſible that this ſhould bee,</l>
+                  <l>And thou Gods Son? or (which more woundeth thee)</l>
+                  <l>That, after all this, man ſhould liue ingrate?</l>
+                  <l>'Tis poſſible. Ah, what can eleuate</l>
+                  <l>The groueling ſoules of mortals? what can reare</l>
+                  <l>Their down-caſt minds? Thou didſt vouchſafe to beare,</l>
+                  <l>And wee thee bleſſe for bearing. Mên, aſpire,</l>
+                  <l>Your center is not earth, but ſome thing higher.</l>
+                  <l>To make vs free thy ſelfe becam'ſt thus bound.</l>
+                  <l>To make vs children, heires of better ground</l>
+                  <l>Then <hi>Canaan,</hi> or <hi>Fdens</hi> ſelfe had any,</l>
+                  <l>Thou lay'dſt aſide thy robes, and glories many,</l>
+                  <l>Thy crowne of ſtarres, ſcepter of diamonds bright,</l>
+                  <l>Thy chaire of ſtate, thy chambers floor'd with light,</l>
+                  <l>Thy galleries of ſaphyr, gardens greene,</l>
+                  <l>Adorn'd with muſiue works, and flowrets ſneene,</l>
+                  <l>Through which pure chryſtall flowes, on whoſe freſh bankes,</l>
+                  <l>Angels ſing carcls, and immortall thankes,</l>
+                  <l>And all the ſolaces which heauens afford,</l>
+                  <l>To bee a ſeruant, and a worme abhord.</l>
+               </lg>
+               <lg>
+                  <head>§. 12.</head>
+                  <l>MVſe, time will come when I ſhall celebrate</l>
+                  <l>The reſidue of his great acts, and ſtate,</l>
+                  <l>And moſt of all that <hi>loue,</hi> whoſe golden ſhafts,</l>
+                  <l>Wounded him ſo, that 'ſpite of all the crafts,</l>
+                  <pb n="24" facs="tcp:4635:16"/>
+                  <l>And policies, and ſtratagems of hell</l>
+                  <l>To hinder it, did worke ſo wondrous well,</l>
+                  <l>As plainely vanquiſht with his Spouſes eyes,</l>
+                  <l>He came among vs in that baſe diſguiſe,</l>
+                  <l>And poore and friendleſſe founded ſuch a might,</l>
+                  <l>As conquers all the world, and doth by right</l>
+                  <l>Breake Realmes of enemies as towrs of glaſſe.</l>
+                  <l>This miracle all miracles doth paſſe.</l>
+                  <l>Meanewhile my <hi>Decaſyllabons</hi> reſt in peace,</l>
+                  <l>The way to holde out is a while to ceaſe.</l>
+               </lg>
+            </div>
+            <div n="6" type="melos">
+               <head>MELOS. VI. <hi>To the noble young Gentle-men of Great BRITAINE.</hi>
+               </head>
+               <lg>
+                  <l>COme away, Deâre, come away,</l>
+                  <l>Let not light ſongs make you ſtay.</l>
+                  <l>Noble ſoûles, leaue, leaue at large,</l>
+                  <l>What will one day come in charge,</l>
+                  <l>Time ill ſpent, and good howres ſquandred,</l>
+                  <l>While your thoughts haue ſweetly wandred,</l>
+                  <l>In the dreames of elues, and faeries,</l>
+                  <l>After beauty which but aër is,</l>
+                  <l>Leeſing God, and ſelues the while.</l>
+                  <l>Glorious wits, what doth beguile,</l>
+                  <l>What ſo ſowly you bewitches,</l>
+                  <l>With the ſhewes of worth, and riches,</l>
+                  <l>Louely ſhapes, and formes of pleaſure,</l>
+                  <l>Strongly phanſied as if treaſure,</l>
+                  <l>That you thus leaue <hi>Sion</hi> quite,</l>
+                  <l>Where true Muſes, day, and night,</l>
+                  <l>Honour beauties fading neuer,</l>
+                  <l>And at <hi>Helicon</hi> perſeuer?</l>
+                  <l>Come away, Deâte, come away,</l>
+                  <l>Let not light ſongs make you ſtay.</l>
+                  <l>Mindes diuine, and Spirits haughty,</l>
+                  <l>Heere, behold, my Muſe hath taught yee,</l>
+                  <pb n="25" facs="tcp:4635:16"/>
+                  <l>
+                     <hi>Hippocren</hi> to bee but muddy.</l>
+                  <l>
+                     <hi>Cedrons</hi> quicke brooke once made ruddy,</l>
+                  <l>By our <hi>Sauiours</hi> ſacred wounds,</l>
+                  <l>Waters hath which haue no grounds,</l>
+                  <l>Dreggs that ſettle in the bottom,</l>
+                  <l>Aër not troubled with an Atom,</l>
+                  <l>Heauenly wholeſome to it hath,</l>
+                  <l>As not <hi>Buxton, Flint,</hi> or <hi>Bath.</hi>
+                  </l>
+                  <l>Such a Ladie, ſuch a beautie,</l>
+                  <l>Queene of Muſes there to ſute yee,</l>
+                  <l>Each with loues, and each with Graces,</l>
+                  <l>As no forreſts, woods, or Chaſes,</l>
+                  <l>Where ranke <hi>Satyres,</hi> lewd <hi>Fawnes</hi> wanton,</l>
+                  <l>Into all Saints turning <hi>Pantheon.</hi>
+                  </l>
+                  <l>Come away, Deare, come away,</l>
+                  <l>Let not light ſongs make you ſtay.</l>
+               </lg>
+               <closer>DEO GRATIAS.</closer>
+               <closer>SOLI DEO HONOR ET GLORIA,</closer>
+               <closer>AMEN.</closer>
+            </div>
+            <div type="text">
+               <pb facs="tcp:4635:17"/>
+               <head>THE PRISONERS O.</head>
+               <head type="sub">O CLAVIS DAVID, ET SCAEPTRVM DOMVS ISRAEL.</head>
+               <div type="part">
+                  <head>
+                     <hi>The Priſoners</hi> O.</head>
+                  <p>THe key of the abyſſe vnder which the prince of hell was ſhut, was (ſaith the <hi>Apocalyps</hi>) in the cuſtody of an holy Angell his iaylour: but the key, which did firſt open the kingdome of heauen to all beleeuers, was in thy cuſtody, ô thou Sonne of DAVID, being for<g ref="char:EOLhyphen"/>med out of that ſacrificing iron, with which thy imma<g ref="char:EOLhyphen"/>culate fleſh was in fiue places peirced. Thy victorious a<g ref="char:EOLhyphen"/>gonie was the Potarrh which blew vp the brazen doores of hell. Nay, thou thy ſelfe art the key as thou art the doore, and the way. Open thy gates, ô my foûle, that the King of glory may come in Who is the King of glo<g ref="char:EOLhyphen"/>ry? ô who? It is hee without whoſe key all graces are lockt vp in thee, as wares without vſe, &amp; without whom the gates of heauen in ſelfe are for euer ſhut againſt thee.</p>
+                  <p>A myſtery, a very great myſtery is in this Apoſtrophe.</p>
+               </div>
+               <div type="part">
+                  <head>O KEY OF DAVID, AND SCEPTER OF THE HOVSE OF ISRAEL:</head>
+                  <p>This is the myſterie, that the keyes are heerein ioyned with the ſcepter of the houſe of Iſrael. For who hath not heard that there appeared, to Great <hi>Conſtantine,</hi> our Lords name in Greek cypher? The capitall letter wher<g ref="char:EOLhyphen"/>of, P, paſſing perpendicularly through the midſt of the capitall letter, X, a figure was produced repreſentatiue of the croſſe in a part, and ſignificatiue of the crucified in the totall, as thus:</p>
+                  <pb n="27" facs="tcp:4635:17"/>
+                  <p>And what was this elſe but an <hi>Hiereglyphicke</hi> of the keyes, and ſcepter conioyned? Theſe characters are ca<g ref="char:EOLhyphen"/>pable of ſuch a poſition, and, as they are capable, ſo cer<g ref="char:EOLhyphen"/>tainely is it their proper alſo. The place of <hi>Roh,</hi> in that celeſtiall proportion in <hi>Brachigraphie,</hi> is the place of the Scepter, and the place of the Keyes is the place of <hi>Chi:</hi> And, let them bee ſo configured, truſt to me neuer, if the myſtery be as not authentick, as ſuperlatiuely important.</p>
+                  <p>The keyes of his Preiſthood doe locke, and vnlocke heauen, and his Scepter, paſſing through them, protects what it vpholds, and gouernes aſwell aboue, as heere. It is a rod of many names. It is a rod of direction, it is a rod of correction, it is a rod of power, and the onely treble mace by which heauen, earth, and hell are awed, and regulated. So that in reſpect of thoſe two cheife au<g ref="char:EOLhyphen"/>thorities, preiſt-hood, and regalitie, meeting in the per<g ref="char:EOLhyphen"/>ſon of our <hi>Sauiour,</hi> King of Kings, and Prince of Preiſts wee may moſt aptly change this of <hi>Virgil,</hi>
+                     <q>
+                        <l>
+                           <hi>Rex Anius, rex idem hominum, Phaebique ſacerdos,</hi>
+                        </l>
+                     </q>
+                  </p>
+                  <p>Into this Monoſtichon, full of moſt venerable truth,</p>
+                  <p>
+                     <hi>Rex CHISTVS, reu idem hominum, Dominique ſacerdos.</hi>
+                  </p>
+                  <p>But I had much rather heare this myſteries reaſon in the words of the moſt learned Doctor of the Lattin Church, by occaſion of this ſaying of <hi>CHRIST,</hi> in <hi>Matthew: Data eſt mihi omnis poteſtas in caelo, &amp; in terra. Power was giuen to him</hi> (ſaith S. <hi>Hierome) who but a little while before was cruciſide, who was buried in a tombe, who had lyen dead, who afterward roſe againe. And power was giuen to him in heauen, and in earth, that hee who before did raigne in heauen, might raigne alſo in the earth by the beleefe of the faithfull.</hi>
+                  </p>
+                  <p>The true proprietarie, &amp; owner of two ſuch enſignes of Soueraignty, and Sanctimonie, as the keyes, and ſcep<g ref="char:EOLhyphen"/>ter,
+<pb n="28" facs="tcp:4635:18"/>is more worthy then that all the <hi>Hierarchies</hi> can ſuf<g ref="char:EOLhyphen"/>ciently praiſe; is more worthy, then that the heauens, the moſt beauteous of viſible creatures, ſhould be wor<g ref="char:EOLhyphen"/>thy enough to bee his manſion; is, to conclude, more worthy then that his dwelling ſhould any where bee worthy of him, but onely within himſelfe. Aboue the greatneſſe of his Maieſty is the ſweetneſſe of his clemen<g ref="char:EOLhyphen"/>cie. Humbly confident in that, I therefore ſay: Let thy golden keyes, ô CHRIST, vnlocke thy treaſures of ſpi<g ref="char:EOLhyphen"/>rit, and grace, and out of them ſtore my ſoule with fur<g ref="char:EOLhyphen"/>nitures, for entertainment of ſo diuine a Viſitant, and let thy golden Scepter brandiſh it ſelfe by thy hand ouerall my faculties, and driue from thence, and from about, all perturbations, and deformities, that Memory, Reaſon, Imagination, ſet at liberty, may obey to the pureſt part of my minde, and ſo concurre to the receipt and hoſpi<g ref="char:EOLhyphen"/>tage of mine incarnate God.</p>
+                  <p>But ô, my deereſt ſoûls, how captiue, and how caitiue am I, who doubly am in priſon? Behôld, material wals, and locks, and bolts about mee, and other iouiſible within mee. The canopie which ſhrowds mee is not <hi>Ionas</hi> his Gourd, but the ſhadowes of death and dark<g ref="char:EOLhyphen"/>neſſe. Come, ô come the rather holy <hi>Patrôn,</hi> enfran<g ref="char:EOLhyphen"/>chize thy ſlaue from the tyes, and ſhackles of vanity, and then is captiuitie the caitiue. For freedome is not em<g ref="char:EOLhyphen"/>peacht by priſon, but by ſinne, becauſe nothing can make any man guilty but his conſcience. I feele the feruor, and ſtrength of meditation decay within mee. The breath of frailty is ſhort in the race of things diuine. The houſe of a priſon is as the houſe of a priſoner, ſolitary for com<g ref="char:EOLhyphen"/>ſort, if not for companie. Grace is not inuited by affe<g ref="char:EOLhyphen"/>ctations, but by ſincere affections, and them, Lord <hi>CHRJST,</hi> thy ſelfe canſt onely giue. To our ſelues we cannot make them. Thou bringeſt thy furniture with thee, and thy peace. It is enough for oranment and en<g ref="char:EOLhyphen"/>freement, if thou afford thy preſence. Thou ſingle doeſt ſuperabound to all. What thine <hi>ESAY</hi> propheſide, thou <hi>holy,</hi> and <hi>true</hi> haſt fulfilled. Vpon thy ſhoulders the
+<pb n="29" facs="tcp:4635:18"/>key of <hi>Dauid</hi> was couched. For, ſaith Scripture, in the perſon of God the father:</p>
+                  <q>Dabo CLAVEM Dauid ſuper humerum eius.</q>
+                  <p>A mightie key and a weighty, which ſhould neede thy backe to beare it Thy Croſſe was that key, which char<g ref="char:EOLhyphen"/>ged on thy ſhoulders diſcharged all the world of bur<g ref="char:EOLhyphen"/>then. I ſecond mine admiration with petition. I ad<g ref="char:EOLhyphen"/>mire thy Maieſtie, implore thy mercy. Bound, and in darkneſſe, &amp; in the darknes of death. There is my ſtates deſcription. Come, ô Lord IESV, come, and I am as I would, and ſhould bee. And that is the worke of thy fauour.</p>
+               </div>
+            </div>
+            <div n="7" type="melos">
+               <head>MELOS. VII. Vpon this verſe in <hi>Dauids</hi> Pſalmes.</head>
+               <head type="sub">Redimeme Domine à CALVMNIIS hominum vt cuſto<g ref="char:EOLhyphen"/>diam mandata tua.</head>
+               <lg>
+                  <l>COme, let vs ſing, that God may haue the glorie,</l>
+                  <l>Some noble act; and let mine auditorie</l>
+                  <l>Bee of the beſt: my Lyra now is ſtrung,</l>
+                  <l>And Engliſh, which I ſing in, is a tongue.</l>
+                  <l>The victory Saint <hi>Michael</hi> did obtaine</l>
+                  <l>Againſt the Dragon in the open plaine,</l>
+                  <l>And moouing champaine of the triple aër,</l>
+                  <l>As braue a ſubiect as high heauens are faire.</l>
+                  <l>I ſee thoſe captaines, and their armies trie</l>
+                  <l>The quartell in all regions of the skie;</l>
+                  <l>I ſee thicke miſts, windes, whirle-windes, drizling dew,</l>
+                  <l>Cold meteors next aboue, and how fires flew,</l>
+                  <l>And all the ſtate of thoſe parts troubled quite:</l>
+                  <l>Was neuer ſeene ſo great and ſtrange a fight.</l>
+                  <l>And whither Decaſyllabons will you goe?</l>
+                  <l>Great was the combat, great the ouerthrow</l>
+                  <l>Which our Saint <hi>George</hi> did to this Dragon giue,</l>
+                  <l>Whoſe fame in <hi>Spenſers</hi> Red-croſſe Knight doth liue:</l>
+                  <pb n="30" facs="tcp:4635:19"/>
+                  <l>Thither repaire who loue deſcriptions life,</l>
+                  <l>There hangs the table of that noble ſtrife.</l>
+                  <l>The ſpirit, and the ſenſe of things our care is.</l>
+                  <l>Wiſdome is Queene, who fareth not with Faëries.</l>
+                  <l>Th' Arch-angels battle is a truth diuine,</l>
+                  <l>And that braue picture which Great <hi>Conſtantine,</hi>
+                  </l>
+                  <l>Cauſ'd to bee limn'd ouer his palace-gate,</l>
+                  <l>And which <hi>Euſebius</hi> ſo doth celebrate</l>
+                  <l>Had ſecret reaſon. There that Prince doth tread,</l>
+                  <l>Vnder his feet, a Dragon proſtrated,</l>
+                  <l>Not vpon ground but vpon ſurging ſea,</l>
+                  <l>Saluations enſigne for a canopie.</l>
+                  <l>Bring vnder mee, ſweet Gôd, that Dragons head,</l>
+                  <l>Which <hi>Doeg,</hi> and his likes ſo long haue fed,</l>
+                  <l>Againſt mine honour, and mine innocence,</l>
+                  <l>With worlds of lies through madneſſe and offence:</l>
+                  <l>O free mee once from wrongs, once lift mee high</l>
+                  <l>Aboue the iawes and reach of <hi>Calumnie,</hi>
+                  </l>
+                  <l>Whoſe voyce barkes lowder then all <hi>Seylla's</hi> doggs,</l>
+                  <l>And breath is fowler then are all the foggs</l>
+                  <l>Of <hi>Seygian</hi> fenne, that in a cleere renowne</l>
+                  <l>My ſoule may mount with ioy to vertues crowne,</l>
+                  <l>Nor hide my praiſe for better were I dye,</l>
+                  <l>Then that my glorie in the duſt ſhould lie.</l>
+               </lg>
+            </div>
+            <div n="8" type="melos">
+               <head>MELOS. VIII. <hi>Of ſolid WISDOME.</hi>
+               </head>
+               <lg>
+                  <l>BEware, who <hi>Wiſdomes</hi> children ſtriue to bee,</l>
+                  <l>Of titulary Wiſdome. That's not ſhee</l>
+                  <l>Can make you happy, nor whoſe caskets hold</l>
+                  <l>That ſoueraigne good you ſeek, more worth then gold.</l>
+                  <l>Search not for that rich medicine of the minde,</l>
+                  <l>That true <hi>Philoſophers</hi> ſtone, which they who finde,</l>
+                  <l>And rightly vſe are foorthwith curde thereby</l>
+                  <l>From earthly thoughts, and taught <hi>Entelechy,</hi>
+                  </l>
+                  <pb n="31" facs="tcp:4635:19"/>
+                  <l>Among th'old <hi>Pagans, Saracens,</hi> or <hi>Iewes,</hi>
+                  </l>
+                  <l>And for this cauſe all Sectaries refuſe.</l>
+                  <l>Wiſdome dwels not in ſoules peruerſely blinde,</l>
+                  <l>Shee hates the earthly, loues the heauenly minde.</l>
+               </lg>
+            </div>
+            <div n="9" type="melos">
+               <head>MELOS. IX. <hi>Of conceiptfull WISDOME.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>HOrace,</hi> whoſe poems in all praiſe exceede,</l>
+                  <l>Admire not but for wit, which hee indeede</l>
+                  <l>Hath excellent, but his maine doctrine ſhunne.</l>
+                  <l>Felicity is loſt, and thou vndone,</l>
+                  <l>If that felicity, which hee propounds,</l>
+                  <l>
+                     <hi>To pleaſe the ſenſes,</hi> bee among the grounds,</l>
+                  <l>And reaſons of thy way in this high Queſt.</l>
+                  <l>Yet hath that Maſter ſuch rare poynts expreſt,</l>
+                  <l>As their cheife oracles did neuer reach.</l>
+                  <l>But other lines deſtroy what they doe teach.</l>
+                  <l>Who better ſpeakes for temperance? or who</l>
+                  <l>For modeſty? But when we lay heereto</l>
+                  <l>His beſtialities of words, and deeds,</l>
+                  <l>The contradiction ſuch a iudgement breeds:</l>
+                  <l>
+                     <hi>Horace</hi> well ſhewes that morall ſchooles he knew,</l>
+                  <l>But in his life did other rules purſue.</l>
+                  <l>Spirituall banquets, dalliances diuine,</l>
+                  <l>Happy exceſſes, ſweets of heauenly wine,</l>
+                  <l>And all good wantonneſſe of bliſſe all ſtate,</l>
+                  <l>Poore man hee knew not, and now knowes too late,</l>
+                  <l>Nor doe I heerein from his wit detract,</l>
+                  <l>Which was a prime one, and aſwell compact</l>
+                  <l>As <hi>Rome</hi> had any, great, polite, or braue:</l>
+                  <l>And now wee of his manners too much haue.</l>
+                  <l>But as the lawes of charity doe binde,</l>
+                  <l>Seruice to <hi>England,</hi> office to the minde,</l>
+                  <l>Which I ſo faine would faire to God maintaine,</l>
+                  <l>And towards man, I needes muſt bee thus plaine,</l>
+                  <pb n="32" facs="tcp:4635:20"/>
+                  <l>As to giue warning, leaſt while wit wee loue,</l>
+                  <l>Wee doe with all Voluptuaries proue.</l>
+                  <l>Affect not wit too much, nor fame for wit.</l>
+                  <l>Haue ſomewhat ſolid, phanſie is but flit.</l>
+                  <l>And they who nouriſh fine conceipts too long,</l>
+                  <l>Their reaſon greatly, and their honour wrong.</l>
+                  <l>For while in them the world expects the man,</l>
+                  <l>They ſtill are babes, and nothing noble can,</l>
+                  <l>Nor dare to can, in ſo ſtrong chaines the minde</l>
+                  <l>Thoſe ſweet enchantments of falſe glory binde.</l>
+                  <l>
+                     <hi>Perpetuall</hi> motion vpward is the thing,</l>
+                  <l>Which doth to <hi>Wiſdome,</hi> and true greatneſſe bring.</l>
+                  <l>To flag in regions low, and reſt in ſenſe,</l>
+                  <l>As <hi>Horace</hi> doth, is dangerous diffluence.</l>
+                  <l>Beware of <hi>Horace,</hi> and his likes, the more</l>
+                  <l>Their Art, and wit are great, and GOD adore.</l>
+               </lg>
+            </div>
+            <div n="10" type="melos">
+               <head>MELOS. X. COSMOPOEA. <hi>The Creation of the world: In the Maieſtie of Decad-ſtanza's, or Stanza's of ten lines.</hi>
+               </head>
+               <lg>
+                  <head>I.</head>
+                  <l>TH' Immutable, who in Almighty minde</l>
+                  <l>Conceiued had the <hi>Arthetype</hi> diuine,</l>
+                  <l>From matter baſe the nobler parts refinde,</l>
+                  <l>Adorning it with many a golden ſigne,</l>
+                  <l>And as his reſidence did bid it ſhire,</l>
+                  <l>Which in th' abyſles hidden were before,</l>
+                  <l>As vaines of mettall in the deepeſt mine,</l>
+                  <l>And wrapped in vnpurified ore,</l>
+                  <l>The droſſe whereof hee caſt not out of ſight,</l>
+                  <l>But on the center in a globe it pight.</l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>Fowre ſundry ſuits then to the ground he gaue.</l>
+                  <l>One faire embroydered with flowres in greene,</l>
+                  <pb n="33" facs="tcp:4635:20"/>
+                  <l>Richly drawen out with many a tinſell waue,</l>
+                  <l>And many a pearle, which on the ſame is ſeene,</l>
+                  <l>When earely teares beſtrow the earth with dew,</l>
+                  <l>Not yet exhaled by the thirſty Sunne:</l>
+                  <l>Another deckt with fruits of druerſe hew,</l>
+                  <l>As apples which as yet no harme had done,</l>
+                  <l>Ripe eares of corne, grapes ſowln with ſtore of blood.</l>
+                  <l>Nuts arm'd with ſhels, and Pinaes hard as wood.</l>
+               </lg>
+               <lg>
+                  <head>III.</head>
+                  <l>The third nor bloomes, nor bloſſomes dignifide,</l>
+                  <l>(Natures true gemms, moſt pleaſing to the eye,</l>
+                  <l>For other gemms the inward earth did hide,</l>
+                  <l>Reſeruing them for further ſcrutinie)</l>
+                  <l>Cherries the place of rubies did ſupply,</l>
+                  <l>And violets for amethyſts were tane,</l>
+                  <l>No gold but that which glitter'd in the skie,</l>
+                  <l>Nothing in all things being yet prophane:</l>
+                  <l>And finally, hee chryſtaled with ice,</l>
+                  <l>The meaneſt veſture by diuine aduice.</l>
+               </lg>
+               <lg>
+                  <head>IV.</head>
+                  <l>Sea, the earths ſiſter, and vnſtable twinne,</l>
+                  <l>The aër their brother, and aethereal fire</l>
+                  <l>(Which firſt the rites of marriage did beginne,</l>
+                  <l>Louing each other with a loue entire,</l>
+                  <l>No cauſe bee falne to leſſen their deſire)</l>
+                  <l>Their Father did empeople diuerſely.</l>
+                  <l>For creatures finn'd with wings did vp aſpire,</l>
+                  <l>Without controllment ſwimming through the skie;</l>
+                  <l>Fiſh wing'd with finnes enhabited the deepe,</l>
+                  <l>And heards of beaſts vpon firme land did keepe.</l>
+               </lg>
+               <lg>
+                  <head>V.</head>
+                  <l>Lords ouer them hee alſo did ordaine.</l>
+                  <l>As among beaſts the Lyon Prince of all,</l>
+                  <l>The Dolphin ouer ſin the Soueraigne,</l>
+                  <l>And among birds the Eagle Principall.</l>
+                  <l>Hee Lord, and Lyon, and the King of all,</l>
+                  <l>Created Peeres likewiſe in euery kinde.</l>
+                  <l>As the huge Elephant, the Camel tall,</l>
+                  <pb n="34" facs="tcp:4635:21"/>
+                  <l>Who loyally vnto their Lord reſignde,</l>
+                  <l>As birds to th'Eagle, all things vnto man,</l>
+                  <l>Aſwell the Lyon, as <hi>Leuiathan.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>VI.</head>
+                  <l>Nor did God leaue the better parts vnfraught,</l>
+                  <l>Defrauding heauen of formes inhabitant.</l>
+                  <l>For from the radiant plentie of his thought.</l>
+                  <l>His euerlaſting WORD co-operant,</l>
+                  <l>Armies of ſhining Angels foorth hee brought,</l>
+                  <l>Tranſparent ſpirits clecrer then the light.</l>
+                  <l>So <hi>Cherubim,</hi> ſo <hi>Scraphim</hi> were wrought:</l>
+                  <l>The eſſences which neuer loſt his ſight.</l>
+                  <l>Thus heauen was builded, thus the earth was deckt,</l>
+                  <l>By meere intention of the Architect.</l>
+               </lg>
+            </div>
+            <div n="11" type="melos">
+               <head>MELOS. XI. <hi>Of the Situation of Great BRITAINE.</hi>
+               </head>
+               <lg>
+                  <head>I.</head>
+                  <l>ANother world, another continent;</l>
+                  <l>About the ſame ſo many Iles doe ſwarme,</l>
+                  <l>It ſelfe ſo great, and of ſo large content,</l>
+                  <l>CAESAR, who gaue thereto the firſt alarm,</l>
+                  <l>Eſteemed it, cut from <hi>Europa</hi> ſo.</l>
+                  <l>Some of which Iles embuttreſſe it before,</l>
+                  <l>Other on either ſide themſelues doe ſhow,</l>
+                  <l>Like to the <hi>Sporades</hi> on Graecian ſhore,</l>
+                  <l>The <hi>Orcads,</hi> and the ſcatter'd <hi>Aebudeas,</hi>
+                  </l>
+                  <l>Hee thruſt behinde into the Scottiſh ſeas.</l>
+               </lg>
+            </div>
+            <div n="12" type="melos">
+               <head>MELOS. XII.</head>
+               <lg>
+                  <l>
+                     <hi>ANathema</hi> to irreligious mindes,</l>
+                  <l>To black deſarts;</l>
+                  <l>
+                     <hi>Anathema</hi> to all preſtigious ſignes,</l>
+                  <l>And all falſe parts;</l>
+                  <pb n="35" facs="tcp:4635:21"/>
+                  <l>
+                     <hi>Anathema</hi> to all immodeſt lines;</l>
+                  <l>
+                     <hi>Anathema Maranatha</hi> to harts,</l>
+                  <l>Who to our youths corruption bend their Arts.</l>
+               </lg>
+               <lg>
+                  <l>The faire white tower of gratious chaſtitie,</l>
+                  <l>Mayds ſoueraigne praiſe,</l>
+                  <l>And wiues moſt duty, by what battery,</l>
+                  <l>By what ſmooth wayes,</l>
+                  <l>Is 't not euerted? Mûſe the verſes flye,</l>
+                  <l>And flie the proſe where ſuch lewd baits doe lurke,</l>
+                  <l>The poyſon vnawares doth ruine worke.</l>
+               </lg>
+               <lg>
+                  <l>Better it were that <hi>Printers</hi> Art ſhould dye,</l>
+                  <l>Muſicke bee dumb,</l>
+                  <l>Better that impudence ſhould dearely buy,</l>
+                  <l>In fight to come,</l>
+                  <l>And all the praiſe of vvit in duſt ſhould lye,</l>
+                  <l>
+                     <hi>Engliſh</hi> take ruſt, and <hi>Britaine</hi> barbarous bee,</l>
+                  <l>Rather then ſhameleſſe. Heauen loues chaſtitee.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Greece</hi> had her <hi>Sappho,</hi> and her ſpruce old vvagg,</l>
+                  <l>
+                     <hi>Anacreon;</hi>
+                  </l>
+                  <l>
+                     <hi>Rome</hi> her <hi>Caetullus,</hi> and the like ſome bragg,</l>
+                  <l>Of <hi>Albion.</hi>
+                  </l>
+                  <l>And would to God that heerein to ſeeme lagg,</l>
+                  <l>Were not a cauſe of abſurd ſhame to many,</l>
+                  <l>Court who court liſt, bee not wits Ape to any.</l>
+               </lg>
+               <lg>
+                  <l>Without that noble <hi>Sidney</hi> heere I tax,</l>
+                  <l>Or <hi>Spenſers</hi> pomp:</l>
+                  <l>And gladly granting <hi>Iohnſon</hi> nothing lacks</l>
+                  <l>Of <hi>Phoebus</hi> ſtamp.</l>
+                  <l>For neuer wits were made of finer wax,</l>
+                  <l>Then <hi>England</hi> hath to vaunt of in theſe times,</l>
+                  <l>But them I tax whoſe reaſon's loſt in times.</l>
+               </lg>
+               <lg>
+                  <l>Deſpaire of ſuch as in ſome bookes delight,</l>
+                  <l>That ſhall bee nameleſſe,</l>
+                  <pb n="36" facs="tcp:4635:22"/>
+                  <l>Fathêrs keep children from contagious ſight</l>
+                  <l>Of authors ſhameleſſe,</l>
+                  <l>For they are charmes, and nature ſoften quite:</l>
+                  <l>And ſuch as vſe them will too ſoone finde true,</l>
+                  <l>That they are bleſt who ſuch bookes neuer knew.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Anathemaes</hi> of other kindes to reare,</l>
+                  <l>Ioyes God and Man;</l>
+                  <l>
+                     <hi>Anathema</hi> another ſenſe may beare,</l>
+                  <l>As ſacred can;</l>
+                  <l>Sacred for hallowed, and the ſame for dire.</l>
+                  <l>New <hi>HELICON</hi> for new <hi>IERVS ALEM,</hi>
+                  </l>
+                  <l>Mine <hi>HELICON</hi> an holy <hi>ANATHEM.</hi>
+                  </l>
+               </lg>
+               <closer>DEO GRATIAS.</closer>
+            </div>
+            <div type="prayer">
+               <head>An excellent old Latin Prayer tranſlated.</head>
+               <p>GIue to mee, Lôrd Gôd, a wakefull heart, which no curious cogitation may draw away: Giue me a no<g ref="char:EOLhyphen"/>ble heart which no vnworthy affection may draw down<g ref="char:EOLhyphen"/>ward: Giue mee an inuincible heart which no tribulati<g ref="char:EOLhyphen"/>on may breake. Giue mee a free heart which no peruerſe, nor violent paſſion may enthrall. Beſtow vpon mee, my Lord God, an vnderſtanding knowing thee; a conuer<g ref="char:EOLhyphen"/>ſation pleaſing thee; a perſeuerance faithfully expecting thee; and a confidence finally embracing thee: with thy paines to bee crucifide by remorſe; to vſe thy benefits in the way by grace: and laſtly to enioy thy bliſſe, in heauen, by euerlaſting glory. Amen.</p>
+            </div>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:4635:22"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of two angels or cherubs holding a wreath above a table, altar or tomb</figDesc>
+                  <p>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Sacrum Pictati.</p>
+                  <p>APOLLINI, ſuiſque HELICONIADIBVS, vltimum Authoris, VALE.</p>
+                  <p>
+                     <hi>VOTIS NVNCVPATIS.</hi> MVSA damnoſas Domino faceſſens, Et ſequi doctus mage profuturas, THESPIIS ſacras poſui deabus, Saucius artes.</p>
+                  <p>ARA OFFICII</p>
+               </figure>
+            </p>
+         </div>
+         <div type="text">
+            <pb n="38" facs="tcp:4635:23"/>
+            <head>BONO PVBLICO.</head>
+            <p>IN diſcharge of that immortall obligation, in which God, and Nature tie mee vnto <hi>England,</hi> after I was ad<g ref="char:EOLhyphen"/>uiſed, for my healths ſake, to grow very remiſſe, or rather, for a while, altogether to giue ouer reading, and to ſo<g ref="char:EOLhyphen"/>lace my ſelfe with the Muſes, whoſe apt ſweet notes might cure in mee the <hi>Tarantula's</hi> ſting of whatſoeuer di<g ref="char:EOLhyphen"/>ſtemper in the naturall ſtate of my affections: I made it my worke to deuiſe, how I might draw the flouriſhing wits, and affections of all well-borne, well-bred, and well-giuen young Gentle-men thereof, to ſee and taſte a more dignitie and ſweetneſſe in holy, and heauenly ar<g ref="char:EOLhyphen"/>guments, then in prophane, and ſenſuall. According to which deſire I haue in theve my poems ſomewhat endea<g ref="char:EOLhyphen"/>uoured to come neere the olde Maieſtie of the ancient Lyricks for breuitie, and to the beſt examples for piety in all the moſt famous olde authors, who profeſſing <hi>Gno<g ref="char:EOLhyphen"/>mologie,</hi> or ſome other good matter, founded in publike benefit, haue beene held worthy to liue in their written moniments (for man kindes ſake, and reſpects of com<g ref="char:EOLhyphen"/>mon-weale) to all poſterities. So <hi>Heſiod</hi> for his poeme of husbandry, ſo <hi>Theognis</hi> and <hi>Phocyllides</hi> for their morall ſentences, ſo <hi>Oppian,</hi> for his naturall Hiſtory of fiſhes, in verſe, dedicated to one of the Roman Emperours, and worth to the Author a golden peece for euery line, and by decree of Senate (before whom it was reherſed) what<g ref="char:EOLhyphen"/>ſoeuer elſe his heart deſired in the Empire, ſo <hi>Aratus</hi> for his poeme of the ſtars, ſo <hi>Dionyſius,</hi> for the earths deſcrip<g ref="char:EOLhyphen"/>tion, among the ancient heathen Greekes, of which <hi>A<g ref="char:EOLhyphen"/>natus</hi> is honoured by S. <hi>Paul,</hi> in his ſermon to the Athe<g ref="char:EOLhyphen"/>nians,
+<pb n="39" facs="tcp:4635:23"/>before the <hi>Areopagites,</hi> where, for proofe of Gods vbiquitie, and of mans origination through him, he ci<g ref="char:EOLhyphen"/>teth a part of one of his diuine verſes, though concealing the name, as contented to haue ſaid, <hi>ſicut &amp; quidam ve<g ref="char:EOLhyphen"/>ſtrorum Poetarum dixerunt:</hi> So, among the Latins, <hi>Cato</hi> for his morall couplets (if <hi>Cato</hi> was their author, and not <hi>Auſonius</hi>) ſo <hi>Virgils</hi> Georgicks (the abſolutely beſt, and moſt compleat of all his learned poems) ſo <hi>Columella,</hi> ſo <hi>Manilius,</hi> &amp; ſo generally alſo all antient Chriſtian Poets, whither Greeke, as S. <hi>Gregory Nazianzen,</hi> and <hi>Syneſius;</hi> or Latin, as <hi>Tertullian,</hi> S. <hi>Cyprian, Prudentius,</hi> S. <hi>Pauli<g ref="char:EOLhyphen"/>nus, Lactantius,</hi> venerable <hi>Bede, Inuencus, Arator, Venan<g ref="char:EOLhyphen"/>tius, Falconia Proba</hi> (in whoſe Cento of <hi>Virgils</hi> verſes ap<g ref="char:EOLhyphen"/>plyed to Chriſt, <hi>Caiphas</hi> his ſpeech, in S. <hi>Iohn. expedit vo<g ref="char:EOLhyphen"/>bis vt vnus moriatur homo pro populo,</hi> is admirably hit vpon, by her, in this <hi>Hemiſtichtum.</hi>
+               <q>Vnum pro multis dabitur caput—</q>
+            </p>
+            <p>So the Lady <hi>Elpis,</hi> wife of great <hi>Boetius,</hi> the Martyr (whoſe bookes of Philoſophicall conſolation are extant, with vniuerſall applauſe, and, for the verſes in them, are equall to the very beſt that euer were) and many other of farre more authority, as the hymnes of S. <hi>Ambroſe,</hi> &amp; S. <hi>Gregorie</hi> the Great, and that moſt famous Church<g ref="char:EOLhyphen"/>hymne, <hi>Te Deum laudamas,</hi> compoſed by S. <hi>Ambroſe,</hi> &amp; S. <hi>Auguſtine</hi> (as is ſayd) verſe after verſe, <hi>alternatim.</hi> All which laſt, and many other religions perſons of both ſexes, had no other ſcope in their makings, then to raiſe the minde by due deuotion to the heauen of heauens, where Ieſus Chriſt our Lord, doth liue &amp; reign for euer. In like ſort there is nothing in this iewell of mine, which is either prophane, or againſt any definition of faith, or doctrine of the <hi>Orthodox,</hi> but, whatſoeuer is in it, wholly tends to lift the ſoule aloft to her Creator, and is either (as Maſters ſpeake) <hi>Pathos,</hi> to ſtirre vp good affections, or <hi>Didaskalikon,</hi> to inſtruct in piety, or in matter of wor<g ref="char:EOLhyphen"/>thy, and honourable learning. The booke is very little, yet greater, by almoſt halfe, then from the beginning I meant it ſhould haue beene, as remaining very mindefull
+<pb n="40" facs="tcp:4635:24"/>of that in <hi>Martials</hi> Epigramms,
+<q>
+                  <l>Sapiùs in libro mem ratur Perſius VNO,</l>
+                  <l>Quàm louis in TOTA Marſus Amazonide.</l>
+               </q>
+            </p>
+            <p>As little alſo as it is, yet if it had not beene from out of much charity to mine owne nation, and of a true Chri<g ref="char:EOLhyphen"/>ſtian feeling of what I euery day ſee needfull among the wits (as they are call'd) and braueries of this age (ſo ex<g ref="char:EOLhyphen"/>cellently ſet foorth to the very life, by the pen of the moſt compleat <hi>Drammatick</hi> Poet that euer this Kingdome had, <hi>Bentamen Iohnſon,</hi> or perhaps euer ſhall haue) I doe aſſure the world in the word of truth, that I ſhould not haue buſied my braines, in the midſt of ſo many great cares, and troubles of this life, with an exerciſe ſo far out of the way of the times, for all honour, &amp; profit, &amp; which my ſelfe haue for ſo many yeeres vtterly aucided Not for that this part of Muſike is an exerciſe vnworthy of a good or a wiſe man: for, after the glorious example of that great Prince, Preiſt, &amp; bleſſed Prophet <hi>Moſes,</hi> of <hi>Debora,</hi> of <hi>Samuels</hi> mother <hi>Anna,</hi> of <hi>Dauid,</hi> of <hi>Salomon,</hi> of King <hi>E<g ref="char:EOLhyphen"/>zechias,</hi> of <hi>Ieremie,</hi> of <hi>Ezechiel,</hi> of <hi>Simeon,</hi> of the bleſſed vir<g ref="char:EOLhyphen"/>gin <hi>Marie,</hi> and of innumerable other the greateſt Saints, &amp; friends of God, who vſed verſes &amp; hymnody, no well<g ref="char:EOLhyphen"/>aſſured man in the world will forbeare ſo holy a delight, for feare of cenſure &amp; preiudice, by reaſon of any baſe<g ref="char:EOLhyphen"/>neſſe in eſtimation cauſed by the baſeneſſe of many vul<g ref="char:EOLhyphen"/>garrimes, odious to God and man, for impudency and prodigious ignorance.</p>
+            <p>Neuertheleſſe, who is hee that will vnneceſſarily fall fowle vpon any vniueriall preiudice, ſuch as is, by the extreame abuſe of good parts, conceiued againſt verſiſi<g ref="char:EOLhyphen"/>ers in <hi>Engliſh</hi> whereof but very few haue right to bee ſa<g ref="char:EOLhyphen"/>luted Poets) if it bee not for the publike good, for which the heathen were forward to hazard any thing, accor<g ref="char:EOLhyphen"/>ding to that of <hi>Horace.</hi>
+            </p>
+            <q>Pulchrum, &amp; decorum eſt pro patria mori?</q>
+            <p>A ſentence more deſeruing immortality then all the o<g ref="char:EOLhyphen"/>racles of his Gods &amp; Goddeſſes. And whereas ſome de<g ref="char:EOLhyphen"/>ceiued doe thinke, and therefore do abandon them, that
+<pb n="41" facs="tcp:4635:24"/>Chriſtian arguments are not capable of thoſe ornaments, beauties, graces, and delicacies which Paganicall, or E<g ref="char:EOLhyphen"/>picuraean ſubiects of poems are, I am verily perſwaded, and am in a manner moſt ſure, that it may bee made good, that all the Maieſtie and praiſes of their poetry are as in<g ref="char:EOLhyphen"/>finitely ſhort, or may bee made ſo, of that which <hi>Chriſtia<g ref="char:EOLhyphen"/>nitie,</hi> is capable, as the perſons, places, and all the <hi>Topicks,</hi> or circu<g ref="char:cmbAbbrStroke">̄</g>ſtances of inuention, or deſcription are infinitly more, lofty, and great in <hi>Chriſtianity,</hi> then in <hi>Mytholegae.</hi> Which though as yet it bee in very few particulars (if in any) appa<g ref="char:EOLhyphen"/>rent (for the <hi>Triumple of Angels,</hi> written in <hi>Engliſh,</hi> was ne<g ref="char:EOLhyphen"/>uer in print) vnleſſe perhaps in the <hi>ſerene Chriſteis</hi> of <hi>Hierom Vida,</hi> Biſhop of <hi>Cremona,</hi> and certainely is in that moſt excel<g ref="char:EOLhyphen"/>lent poem <hi>De partu virginis</hi> (I ſpeake of Latin) written by that noble Neapolitan, <hi>Sanazzara</hi> (for, how much <hi>Poſſe<g ref="char:EOLhyphen"/>ninus</hi> commends <hi>Guelfutio</hi> his <hi>Roſario</hi> in Italian, to the ho<g ref="char:EOLhyphen"/>nour of the Bleſſed Virgin (a worke of very many yeeres) is not eaſily credible, and <hi>Torquato Taſſo</hi> his Italian <hi>Hieruſalem</hi> hath as many admirers, as readers, ſo farre forth, that if any vulgar tongue were capable of perfect poetry, or of a per<g ref="char:EOLhyphen"/>fect poem of ſtate, which Artiſts call <hi>Epich</hi> and <hi>Heroick,</hi> they ſeeme to carry it cleere) the reaſon why this excellency is not more generall, is, for that (as I conceiue) writers make not an entire employment of their poetry, or are not in loue with the pomp, and ſplendor of magnificent piety, a ſcru<g ref="char:EOLhyphen"/>pulous vaniue for the moſt part, or are otherwiſe method<g ref="char:EOLhyphen"/>mongers, without any wiſdome, either of worthy free ſpi<g ref="char:EOLhyphen"/>rits, or of generous breeding.</p>
+            <p>Concerning the reading of Poets, heare a <hi>Platonicall,</hi> or a new <hi>Eutopian</hi> Law, which it was my chance to finde in a manuſcript platforme, as touching a Sodality to bee erected for heroicke ſtudies, and is: <hi>Poetae nulli leguntor niſi Hymnodi, Lyrici, Epici, Tragidi, Satyrici, ijque casti, &amp; ant Graeci, aut La<g ref="char:EOLhyphen"/>tini. In vulgarthus linguis exarata poematia <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> nulla legun<g ref="char:EOLhyphen"/>tor, niſi veniâ diſertis verbis, &amp; in ſcriptis, prius impetratâ.</hi>
+            </p>
+            <p>But this Law will not eaſily finde paſſage if it come to a Committee of the wits, and ſeemeth too ſeuere for the pub<g ref="char:EOLhyphen"/>like, howſoeuer it may ſtand with the wiſdome of a Colle<g ref="char:EOLhyphen"/>giall
+<pb n="42" facs="tcp:4635:25"/>inſtitution. Neuertheleſſe, if the ſame were receiued in publike, in ſome proportion, there would happily bee the leſſe cauſe to ſay to many young Gentle-men, and ſtudious <hi>Philotimiſts</hi> of <hi>England,</hi> my deare and moſt honoured Coun<g ref="char:EOLhyphen"/>trey-men, as S. <hi>Auguſtine</hi> writ in an Epiſtle to his Diſciple, <hi>Licentius,</hi> being one who was enricht with the greateſt wit, and otherwiſe moſt exquiſitely adorned with all the ſorts of honourable humane knowledges: <hi>Si calicem aureum, &amp;c. Hadſt thou found a cup of golde vpon the ground, thou wouldst giue it to the Church of God. But thou haſt receiued of God a ſpiri<g ref="char:EOLhyphen"/>tually-golden wit, and doeſt ſacrifice therein to thy luſts, and drin<g ref="char:EOLhyphen"/>keſt, inſtead of healths, thine whole ſelfe in it to the Diuell.</hi>
+            </p>
+            <div type="conclusion">
+               <head>Concluſion.</head>
+               <p>As therefore a prudent Lapidarie, hauing (as hee per<g ref="char:EOLhyphen"/>ſwades himſelfe) a paragon-ſtone, or orientall vnion pearle, for which hee ventred very farre, omitted many great bar<g ref="char:EOLhyphen"/>gaines, and laid out large quantities of coyne, goeth not to finde a Chapman for it, into Thames-ſtreet, among Car<g ref="char:EOLhyphen"/>men and Portars; but to the Princes, and Cheifes of the Land: ſo my ſelfe, in imitation of that wiſdome, which is founded euen in common ſenſe, hauing a iewell of another better nature (if at leaſtwiſe the eſtimation of ware riſeth out of the conſideration of their qualitie) doe ſhunne all incom<g ref="char:EOLhyphen"/>petent, and incapable iudgements, abounding among the lewd, that is to ſay, the vnlearned (for <hi>lewd,</hi> and <hi>learned</hi> did in old <hi>Engliſh</hi> make a flat oppoſition, according to that of <hi>Salomons</hi> Prouerbs, <hi>Impius ignorat ſcientiam</hi>) and doe ſeeke, and repoſe all the credit of my paines, among the compe<g ref="char:EOLhyphen"/>tent and capable. So therefore to Gods Almighty good<g ref="char:EOLhyphen"/>neſſe, humbly recommending my ſelfe, and theſe my endeauos, I deuiſe and leaue the commodity, whatſoeuer it be, to my deareſt Lady<g ref="char:EOLhyphen"/>mother, noble ENGLAND.</p>
+               <closer>Soli Deo honor, &amp; gloria.</closer>
+               <pb facs="tcp:4635:25"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
